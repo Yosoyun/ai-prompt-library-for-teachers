@@ -1,42 +1,42 @@
-# AI Prompt Library for Teachers
+# Prompt Studio for Teachers
 
-**219 ready-to-use, copy-paste AI prompts** for mathematics and school faculty — curated by **Indrajeet Yadav** from years of personal notes and a hand-built prompt library, merged and cleaned for daily classroom use.
+**219 free, copy-paste AI prompts** that do a teacher's busywork in seconds — solutions, DPPs, question papers, doubt-solving, lesson plans, parent & WhatsApp messages, content and more.
 
-Works with **ChatGPT, Claude or Gemini** (free versions too). No coding, no APIs.
+🔗 **Live:** https://yosoyun.github.io/ai-prompt-library-for-teachers/
 
-## What's inside
+Works with **ChatGPT, Claude or Gemini** (free versions too). No login, no coding.
+
+## Highlights
+
+- **Beast-level UI** — Aura-style glassmorphism with a light/dark toggle, animated aurora, Fraunces display type.
+- **Multi-layer & never confusing** — Hero → *Start here* (60-second guide + AI-tool picker) → browsable **category shelves** → filters (level, text/image) + search → **prompt detail modal**.
+- **Every prompt is auto-signed** — each one tells the AI to end its answer with the teacher's signature so students and parents can get in touch.
+- **Works offline** — all data is embedded in `index.html`.
+
+## Contact / feedback (embedded in every solution)
+
+- 📧 indrajeetsirallen@gmail.com
+- 💬 https://wa.me/918072965053
+- 📸 https://instagram.com/indrajeetsirallen
+
+## Files
 
 | File | What it is |
 |------|------------|
-| `index.html` | The library — open it in any browser. Search, filter by category, one-click copy. Works **offline** (data is built in). |
-| `WHATSAPP-MESSAGES.txt` | Ready-to-paste WhatsApp messages to share the library with fellow teachers (English + Hindi + a "how to use daily" guide). |
-| `prompt-pack.md` | The full prompt pack as plain Markdown, if you prefer text. |
-| `data/prompts.json` | The structured source data for all 219 prompts. |
-| `build_site.py` | Rebuilds `index.html`, `prompt-pack.md`, and `WHATSAPP-MESSAGES.txt` from the JSON. Run `python3 build_site.py`. |
+| `index.html` | The full single-file app (open in any browser). |
+| `data/prompts.json` | Structured source for all 219 prompts. |
+| `build_site.py` | Rebuilds `index.html`, `prompt-pack.md`, `WHATSAPP-MESSAGES.txt`. Run `python3 build_site.py`. |
+| `WHATSAPP-MESSAGES.txt` | Ready-to-paste WhatsApp invites (English + Hindi) + a daily-use guide. |
+| `prompt-pack.md` | The full prompt pack as Markdown. |
 
-## 12 categories
+## More free tools by Indrajeet Yadav
 
-Solutions & Worked Examples · Practice, DPP & Tests · Question Papers & Assessment ·
-Concepts, Proofs & Theory · Doubt-Solving & Remedial · Visual & Diagram Maths ·
-Lesson Planning & Notes · Student Feedback & Mentoring · WhatsApp & Parent Communication ·
-Content & Social Media · AI Productivity & Workflow · Prompt-Writing & Meta
-
-## How to use (for any teacher)
-
-1. Open `index.html` (or the hosted link).
-2. Search, or tap a category.
-3. Press **Copy** on a prompt.
-4. Paste it into ChatGPT / Claude / Gemini.
-5. Replace the words in `[BRACKETS]` — e.g. `[TOPIC]` → Integration, `[GRADE]` → Class 12.
-6. Send. Edit the result and use it in class.
-
-## Sharing it with 1000+ faculty
-
-- **Easiest:** host `index.html` for free (GitHub Pages, Vercel, or even a Google Drive "anyone with link" share), then paste that link into the WhatsApp messages in `WHATSAPP-MESSAGES.txt`.
-- **Offline:** you can also send the `index.html` file itself in a group — it opens with no internet.
-
-To update the pack, edit `data/prompts.json` and run `python3 build_site.py`.
+[Maths Prompt Studio](https://yosoyun.github.io/math-prompt-studio/) ·
+[Ranker Masterbooks](https://yosoyun.github.io/ranker-masterbooks/) ·
+[Andreescu Library](https://yosoyun.github.io/andreescu-library/) ·
+[LIMITS Masterbook](https://limits-masterbook.vercel.app) ·
+[AMC 8 Math App](https://amc8-math-app-two.vercel.app)
 
 ---
 
-*Created & curated by **Indrajeet Yadav**. Free to share with fellow teachers — please keep the credit.*
+*Created &amp; curated by **Indrajeet Yadav** · Maths Faculty. Free to share — please keep the credit.*

@@ -1,56 +1,57 @@
 ============================================================
-  WHATSAPP MESSAGES — copy & paste into your faculty groups
+  Prompt Studio for Teachers — WhatsApp messages (copy & paste)
 ============================================================
 
 
 ----- Invite (English) -----
 
-🎓 *AI Prompt Library for Teachers*
+🎓 *Prompt Studio for Teachers*  —  free AI prompts for teachers
 
-219 ready-to-use prompts that save hours every day — solutions, DPPs, question papers, doubt-solving, lesson plans, parent & WhatsApp messages, YouTube/Insta content and more.
+219 ready-to-use, copy-paste prompts that save hours every day — solutions, DPPs, question papers, doubt-solving, lesson plans, parent & WhatsApp messages, content and more.
 
 ✅ 100% copy-paste. Works on ChatGPT, Claude or Gemini (free versions too).
-🧩 Open it → pick a prompt → fill the [BLANKS] → paste into the AI.
+🧩 Open → pick a prompt → fill the [BLANKS] → paste into the AI.
 
-👉 Open here: https://yosoyun.github.io/ai-prompt-library-for-teachers/
+👉 https://yosoyun.github.io/ai-prompt-library-for-teachers/
 
-Made for faculty, by Indrajeet Yadav.
+Made for teachers, by Indrajeet Yadav.
 
 
------ How to use daily (English) -----
+----- How to use it daily (English) -----
 
-📌 *How to use the Prompt Library every day*
+📌 *How to use Prompt Studio for Teachers every day*
 
-1️⃣ Open the link and bookmark it on your phone.
-2️⃣ Use the 🔍 search box, or tap a category (DPP, Question Paper, Doubt-Solving…).
-3️⃣ Tap *Copy* on any prompt.
-4️⃣ Paste it into ChatGPT / Claude / Gemini.
-5️⃣ Replace the words in [BRACKETS] with your details — e.g. [TOPIC] → Integration, [GRADE] → Class 12.
-6️⃣ Send. Edit the result and use it in class.
+1️⃣ Open the link & bookmark it on your phone.
+2️⃣ Tap *Start here* once to see a 60-second example.
+3️⃣ Pick a category (DPP, Question Paper, Doubt-Solving…) or search.
+4️⃣ Tap *Copy*, paste into ChatGPT / Claude / Gemini.
+5️⃣ Replace the [BRACKETS] — e.g. [TOPIC] → Integration, [GRADE] → Class 12.
+6️⃣ Send. Every answer comes signed so students can reach the teacher.
 
-💡 *Daily ideas:*
-• Morning — generate today's DPP / warm-up questions.
-• Before class — make a quick lesson plan or board-work plan.
-• Doubt time — paste a student's question for a step-by-step solution.
-• Evening — turn your lesson into a WhatsApp note or a YouTube/Insta post.
+💡 Try just *one* prompt a day:
+• Morning — today's DPP / warm-up.
+• Before class — a quick lesson or board plan.
+• Doubt time — a step-by-step solution.
+• Evening — a WhatsApp note or a post.
 
-Start with just *one* prompt a day. 🚀
+👉 https://yosoyun.github.io/ai-prompt-library-for-teachers/
 
 
 ----- Invite (Hindi) -----
 
-🎓 *शिक्षकों के लिए AI प्रॉम्प्ट लाइब्रेरी*
+🎓 *Prompt Studio for Teachers* — शिक्षकों के लिए मुफ़्त AI प्रॉम्प्ट
 
-रोज़ घंटों बचाने वाले 219 तैयार प्रॉम्प्ट — हल, DPP, प्रश्न-पत्र, डाउट सॉल्विंग, लेसन प्लान, पैरेंट/WhatsApp मैसेज, YouTube/Insta कंटेंट और भी बहुत कुछ।
+रोज़ घंटों बचाने वाले 219 तैयार प्रॉम्प्ट — हल, DPP, प्रश्न-पत्र, डाउट सॉल्विंग, लेसन प्लान, पैरेंट/WhatsApp मैसेज और भी बहुत कुछ।
 
 ✅ पूरी तरह कॉपी-पेस्ट। ChatGPT, Claude या Gemini (फ्री वर्ज़न भी) पर चलता है।
 🧩 खोलें → प्रॉम्प्ट चुनें → [BRACKETS] भरें → AI में पेस्ट करें।
 
-👉 यहाँ खोलें: https://yosoyun.github.io/ai-prompt-library-for-teachers/
+👉 https://yosoyun.github.io/ai-prompt-library-for-teachers/
 
 शिक्षकों के लिए — Indrajeet Yadav द्वारा।
 
 
-The live link is already filled in above:
-  https://yosoyun.github.io/ai-prompt-library-for-teachers/
-Just copy a message and paste it into your WhatsApp groups.
+Contacts embedded in every prompt's signature:
+  Email: indrajeetsirallen@gmail.com
+  WhatsApp: wa.me/918072965053
+  Instagram: @indrajeetsirallen
