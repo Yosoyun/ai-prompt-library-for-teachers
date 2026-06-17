@@ -7,7 +7,7 @@
 
 🎓 *Prompt Studio for Teachers*  —  free AI prompts for teachers
 
-219 ready-to-use, copy-paste prompts that save hours every day — solutions, DPPs, question papers, doubt-solving, lesson plans, parent & WhatsApp messages, content and more.
+219 ready-to-use, copy-paste prompts that save hours every day — solutions, DPPs, question papers, doubt-solving, lesson plans, parent & WhatsApp messages and more.
 
 ✅ 100% copy-paste. Works on ChatGPT, Claude or Gemini (free versions too).
 🧩 Open → pick a prompt → fill the [BLANKS] → paste into the AI.
@@ -26,13 +26,7 @@ Made for teachers, by Indrajeet Yadav.
 3️⃣ Pick a category (DPP, Question Paper, Doubt-Solving…) or search.
 4️⃣ Tap *Copy*, paste into ChatGPT / Claude / Gemini.
 5️⃣ Replace the [BRACKETS] — e.g. [TOPIC] → Integration, [GRADE] → Class 12.
-6️⃣ Send. Every answer comes signed so students can reach the teacher.
-
-💡 Try just *one* prompt a day:
-• Morning — today's DPP / warm-up.
-• Before class — a quick lesson or board plan.
-• Doubt time — a step-by-step solution.
-• Evening — a WhatsApp note or a post.
+6️⃣ Send. Every answer is signed so students can find you.
 
 👉 https://yosoyun.github.io/ai-prompt-library-for-teachers/
 
@@ -43,7 +37,7 @@ Made for teachers, by Indrajeet Yadav.
 
 रोज़ घंटों बचाने वाले 219 तैयार प्रॉम्प्ट — हल, DPP, प्रश्न-पत्र, डाउट सॉल्विंग, लेसन प्लान, पैरेंट/WhatsApp मैसेज और भी बहुत कुछ।
 
-✅ पूरी तरह कॉपी-पेस्ट। ChatGPT, Claude या Gemini (फ्री वर्ज़न भी) पर चलता है।
+✅ पूरी तरह कॉपी-पेस्ट। ChatGPT, Claude या Gemini पर चलता है।
 🧩 खोलें → प्रॉम्प्ट चुनें → [BRACKETS] भरें → AI में पेस्ट करें।
 
 👉 https://yosoyun.github.io/ai-prompt-library-for-teachers/
@@ -51,7 +45,6 @@ Made for teachers, by Indrajeet Yadav.
 शिक्षकों के लिए — Indrajeet Yadav द्वारा।
 
 
-Contacts embedded in every prompt's signature:
-  Email: indrajeetsirallen@gmail.com
-  WhatsApp: wa.me/918072965053
-  Instagram: @indrajeetsirallen
+The live link is in every message above:
+  https://yosoyun.github.io/ai-prompt-library-for-teachers/
+Contacts are click-only on the site (email / WhatsApp / Instagram) and are never shown as text.

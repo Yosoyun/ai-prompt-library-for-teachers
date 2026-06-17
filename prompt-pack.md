@@ -2,10 +2,10 @@
 
 _219 copy-paste AI prompts for teachers — curated by Indrajeet Yadav (Maths Faculty). Built 2026-06-18._
 
-Works with ChatGPT, Claude or Gemini. Open a prompt, replace the `[BRACKETS]`, paste it in. Every prompt instructs the AI to sign its answer so students can reach the teacher.
+Works with ChatGPT, Claude or Gemini. Open a prompt, replace the `[BRACKETS]`, paste it in. Every prompt signs its answer with a link back to this studio.
 
 
-## ✍️ Solutions & Worked Examples  (23)
+## Solutions & Worked Examples  (23)
 
 ### Direct, substitution and identity methods compared
 *You get: One problem solved by 3 distinct methods, with a comparison table and final answer.*
@@ -51,7 +51,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -93,12 +93,12 @@ OUTPUT FORMAT
 
 FINAL STEP — CAPTION & SIGNATURE
 Beneath the generated image, print this one-line caption exactly:
-"Created with prompts by Indrajeet Yadav — @indrajeetsirallen"
+"Created with prompts by Indrajeet Yadav"
 Then, in text below the image, append the following contact block exactly as written, on its own new lines. Do not change, translate, or reformat it:
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -140,12 +140,12 @@ OUTPUT FORMAT
 
 FINAL STEP — CAPTION & SIGNATURE
 Beneath the generated image, print this one-line caption exactly:
-"Created with prompts by Indrajeet Yadav — @indrajeetsirallen"
+"Created with prompts by Indrajeet Yadav"
 Then, in text below the image, append the following contact block exactly as written, on its own new lines. Do not change, translate, or reformat it:
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -187,12 +187,12 @@ OUTPUT FORMAT
 
 FINAL STEP — CAPTION & SIGNATURE
 Beneath the generated image, print this one-line caption exactly:
-"Created with prompts by Indrajeet Yadav — @indrajeetsirallen"
+"Created with prompts by Indrajeet Yadav"
 Then, in text below the image, append the following contact block exactly as written, on its own new lines. Do not change, translate, or reformat it:
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -234,12 +234,12 @@ OUTPUT FORMAT
 
 FINAL STEP — CAPTION & SIGNATURE
 Beneath the generated image, print this one-line caption exactly:
-"Created with prompts by Indrajeet Yadav — @indrajeetsirallen"
+"Created with prompts by Indrajeet Yadav"
 Then, in text below the image, append the following contact block exactly as written, on its own new lines. Do not change, translate, or reformat it:
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -281,12 +281,12 @@ OUTPUT FORMAT
 
 FINAL STEP — CAPTION & SIGNATURE
 Beneath the generated image, print this one-line caption exactly:
-"Created with prompts by Indrajeet Yadav — @indrajeetsirallen"
+"Created with prompts by Indrajeet Yadav"
 Then, in text below the image, append the following contact block exactly as written, on its own new lines. Do not change, translate, or reformat it:
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -335,7 +335,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -377,12 +377,12 @@ OUTPUT FORMAT
 
 FINAL STEP — CAPTION & SIGNATURE
 Beneath the generated image, print this one-line caption exactly:
-"Created with prompts by Indrajeet Yadav — @indrajeetsirallen"
+"Created with prompts by Indrajeet Yadav"
 Then, in text below the image, append the following contact block exactly as written, on its own new lines. Do not change, translate, or reformat it:
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -424,12 +424,12 @@ OUTPUT FORMAT
 
 FINAL STEP — CAPTION & SIGNATURE
 Beneath the generated image, print this one-line caption exactly:
-"Created with prompts by Indrajeet Yadav — @indrajeetsirallen"
+"Created with prompts by Indrajeet Yadav"
 Then, in text below the image, append the following contact block exactly as written, on its own new lines. Do not change, translate, or reformat it:
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -471,12 +471,12 @@ OUTPUT FORMAT
 
 FINAL STEP — CAPTION & SIGNATURE
 Beneath the generated image, print this one-line caption exactly:
-"Created with prompts by Indrajeet Yadav — @indrajeetsirallen"
+"Created with prompts by Indrajeet Yadav"
 Then, in text below the image, append the following contact block exactly as written, on its own new lines. Do not change, translate, or reformat it:
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -518,12 +518,12 @@ OUTPUT FORMAT
 
 FINAL STEP — CAPTION & SIGNATURE
 Beneath the generated image, print this one-line caption exactly:
-"Created with prompts by Indrajeet Yadav — @indrajeetsirallen"
+"Created with prompts by Indrajeet Yadav"
 Then, in text below the image, append the following contact block exactly as written, on its own new lines. Do not change, translate, or reformat it:
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -565,12 +565,12 @@ OUTPUT FORMAT
 
 FINAL STEP — CAPTION & SIGNATURE
 Beneath the generated image, print this one-line caption exactly:
-"Created with prompts by Indrajeet Yadav — @indrajeetsirallen"
+"Created with prompts by Indrajeet Yadav"
 Then, in text below the image, append the following contact block exactly as written, on its own new lines. Do not change, translate, or reformat it:
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -619,7 +619,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -668,7 +668,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -717,7 +717,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -766,7 +766,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -815,7 +815,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -864,7 +864,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -913,7 +913,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -962,7 +962,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -1004,7 +1004,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -1044,7 +1044,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -1086,13 +1086,13 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
 
 
-## 📝 Practice, DPP & Tests  (31)
+## Practice, DPP & Tests  (31)
 
 ### 15-minute DPP for one subtopic
 *You get: A 15-minute single-subtopic DPP with student sheet, answer key, and teacher notes.*
@@ -1136,7 +1136,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -1183,7 +1183,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -1230,7 +1230,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -1278,7 +1278,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -1326,7 +1326,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -1374,7 +1374,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -1422,7 +1422,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -1469,7 +1469,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -1517,7 +1517,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -1564,7 +1564,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -1611,7 +1611,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -1658,7 +1658,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -1705,7 +1705,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -1752,7 +1752,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -1799,7 +1799,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -1846,7 +1846,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -1893,7 +1893,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -1941,7 +1941,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -1988,7 +1988,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -2035,7 +2035,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -2082,7 +2082,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -2127,7 +2127,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -2172,7 +2172,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -2217,7 +2217,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -2262,7 +2262,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -2307,7 +2307,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -2352,7 +2352,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -2397,7 +2397,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -2442,7 +2442,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -2487,7 +2487,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -2524,13 +2524,13 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
 
 
-## 📄 Question Papers & Assessment  (31)
+## Question Papers & Assessment  (31)
 
 ### 40-Mark Unit Test With Balanced Sections
 *You get: A 40-mark test with blueprint, balanced sections, answer key and step-wise marking.*
@@ -2572,7 +2572,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -2617,7 +2617,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -2662,7 +2662,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -2707,7 +2707,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -2752,7 +2752,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -2797,7 +2797,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -2842,7 +2842,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -2887,7 +2887,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -2932,7 +2932,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -2977,7 +2977,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -3022,7 +3022,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -3067,7 +3067,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -3109,7 +3109,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -3150,7 +3150,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -3191,7 +3191,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -3232,7 +3232,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -3273,7 +3273,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -3314,7 +3314,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -3355,7 +3355,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -3396,7 +3396,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -3437,7 +3437,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -3478,7 +3478,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -3519,7 +3519,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -3560,7 +3560,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -3601,7 +3601,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -3642,7 +3642,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -3683,7 +3683,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -3724,7 +3724,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -3765,7 +3765,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -3806,7 +3806,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -3843,13 +3843,13 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
 
 
-## 📐 Concepts, Proofs & Theory  (23)
+## Concepts, Proofs & Theory  (23)
 
 ### Compare two related theorems
 *You get: A side-by-side comparison of two theorems: when each applies, and how they relate*
@@ -3886,7 +3886,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -3926,7 +3926,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -3966,7 +3966,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -4013,7 +4013,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -4060,7 +4060,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -4107,7 +4107,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -4154,7 +4154,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -4201,7 +4201,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -4248,7 +4248,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -4295,7 +4295,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -4338,7 +4338,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -4379,7 +4379,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -4417,7 +4417,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -4458,7 +4458,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -4497,7 +4497,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -4532,7 +4532,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -4569,7 +4569,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -4609,7 +4609,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -4648,7 +4648,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -4687,7 +4687,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -4723,7 +4723,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -4758,7 +4758,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -4792,13 +4792,13 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
 
 
-## 🔧 Doubt-Solving & Remedial  (13)
+## Doubt-Solving & Remedial  (13)
 
 ### Concept bridge from arithmetic to algebra
 *You get: Diagnosis, arithmetic-to-algebra mini-lesson, practice ladder, teacher script, exit check.*
@@ -4841,7 +4841,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -4887,7 +4887,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -4934,7 +4934,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -4981,7 +4981,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -5028,7 +5028,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -5067,7 +5067,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -5115,7 +5115,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -5159,7 +5159,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -5206,7 +5206,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -5250,7 +5250,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -5286,7 +5286,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -5323,7 +5323,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -5361,13 +5361,13 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
 
 
-## 📊 Visual & Diagram Maths  (15)
+## Visual & Diagram Maths  (15)
 
 ### Build a trigonometry unit-circle visual
 *You get: Unit-circle spec: angles, (cos,sin) coordinates, ASTC signs + draw/verify steps*
@@ -5410,7 +5410,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -5456,7 +5456,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -5502,7 +5502,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -5548,7 +5548,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -5594,7 +5594,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -5640,7 +5640,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -5686,7 +5686,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -5732,7 +5732,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -5777,7 +5777,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -5823,7 +5823,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -5859,11 +5859,11 @@ OUTPUT FORMAT
 A numbered list of [NUMBER_OF_PROMPTS] prompts, one per line, each ending in --ar [ASPECT_RATIO]. After the list, add a one-line tip on which prompt suits a video thumbnail best.
 
 — ALWAYS END WITH THIS —
-Beneath each generated image, add this exact one-line caption: "Created with prompts by Indrajeet Yadav — @indrajeetsirallen". If you are only producing the prompt text (not the image itself), still append the following contact block exactly as written, on its own new lines, without changing or translating it:
+Beneath each generated image, add this exact one-line caption: "Created with prompts by Indrajeet Yadav". If you are only producing the prompt text (not the image itself), still append the following contact block exactly as written, on its own new lines, without changing or translating it:
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -5900,7 +5900,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -5937,7 +5937,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -5975,12 +5975,12 @@ OUTPUT FORMAT
 
 — ALWAYS END WITH THIS —
 Beneath the generated image, output this one-line caption exactly as written, on its own line:
-Created with prompts by Indrajeet Yadav — @indrajeetsirallen
+Created with prompts by Indrajeet Yadav
 Then, in plain text below the caption, add this contact line exactly as written, without translating it:
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -6016,13 +6016,13 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
 
 
-## 🗂️ Lesson Planning & Notes  (22)
+## Lesson Planning & Notes  (22)
 
 ### Board-Work Plan for a Derivation
 *You get: A panel-by-panel board sequence for a derivation with fragile steps flagged and timed*
@@ -6066,7 +6066,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -6109,7 +6109,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -6150,7 +6150,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -6190,7 +6190,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -6234,7 +6234,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -6273,7 +6273,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -6318,7 +6318,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -6357,7 +6357,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -6401,7 +6401,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -6438,7 +6438,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -6485,7 +6485,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -6522,7 +6522,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -6562,7 +6562,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -6604,7 +6604,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -6643,7 +6643,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -6678,7 +6678,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -6720,7 +6720,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -6757,7 +6757,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -6797,7 +6797,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -6837,7 +6837,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -6877,7 +6877,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -6915,13 +6915,13 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
 
 
-## 🧑‍🏫 Student Feedback & Mentoring  (3)
+## Student Feedback & Mentoring  (3)
 
 ### Student Feedback Comments from Marks
 *You get: Per-student feedback comments (strength + area + next step) generated from a marks list*
@@ -6957,7 +6957,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -6992,7 +6992,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -7028,13 +7028,13 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
 
 
-## 💬 WhatsApp & Parent Communication  (2)
+## WhatsApp & Parent Communication  (2)
 
 ### Universal WhatsApp Formatter for Notes & Announcements
 *You get: Your content rebuilt as one clean, emoji-structured, copy-paste WhatsApp message*
@@ -7070,7 +7070,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -7113,13 +7113,13 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
 
 
-## 🎬 Content & Social Media  (22)
+## Content & Social Media  (22)
 
 ### Apply a Psychological Mental Model to Market a Course
 *You get: 3 ethical messaging options (post, ad, WhatsApp) built on one chosen psychological principle*
@@ -7151,7 +7151,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -7187,7 +7187,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -7224,7 +7224,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -7257,7 +7257,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -7293,7 +7293,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -7325,7 +7325,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -7362,7 +7362,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -7397,7 +7397,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -7429,7 +7429,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -7462,7 +7462,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -7501,7 +7501,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -7538,7 +7538,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -7576,7 +7576,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -7612,7 +7612,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -7650,7 +7650,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -7689,7 +7689,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -7731,7 +7731,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -7769,7 +7769,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -7816,7 +7816,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -7851,7 +7851,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -7886,7 +7886,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -7920,13 +7920,13 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
 
 
-## ⚡ AI Productivity & Workflow  (16)
+## AI Productivity & Workflow  (16)
 
 ### AI Assistant Custom Instruction: Plan, Clarify, Then Execute
 *You get: An assistant that plans, lists assumptions, and confirms before executing*
@@ -7957,7 +7957,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -7992,7 +7992,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -8030,7 +8030,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -8073,7 +8073,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -8108,7 +8108,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -8159,7 +8159,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -8195,7 +8195,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -8231,7 +8231,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -8271,7 +8271,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -8304,7 +8304,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -8336,7 +8336,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -8373,7 +8373,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -8406,7 +8406,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -8443,7 +8443,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -8483,7 +8483,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -8523,13 +8523,13 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
 
 
-## 🧩 Prompt-Writing & Meta  (18)
+## Prompt-Writing & Meta  (18)
 
 ### Accuracy-First Custom Instructions (Step-by-Step Reasoning)
 *You get: Standing rules that make the AI reason step-by-step before every concise, factual answer*
@@ -8561,7 +8561,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -8600,7 +8600,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -8637,7 +8637,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -8672,7 +8672,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -8710,7 +8710,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -8745,7 +8745,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -8781,7 +8781,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -8816,7 +8816,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -8852,7 +8852,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -8889,7 +8889,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -8923,7 +8923,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -8958,7 +8958,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -8991,7 +8991,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -9025,7 +9025,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -9063,7 +9063,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -9110,7 +9110,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -9149,7 +9149,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
@@ -9186,7 +9186,7 @@ After your full answer, append the following signature block exactly as written,
 
 ━━━━━━━━━━━━━━━━
 ✍️ Crafted with prompts by Indrajeet Yadav · Maths Faculty
-📧 indrajeetsirallen@gmail.com   💬 wa.me/918072965053   📸 @indrajeetsirallen
+🔗 Free tools & to reach me: https://yosoyun.github.io/ai-prompt-library-for-teachers/
 Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```

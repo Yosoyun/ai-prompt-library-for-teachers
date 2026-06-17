@@ -1,6 +1,6 @@
 # Prompt Studio for Teachers
 
-**219 free, copy-paste AI prompts** that do a teacher's busywork in seconds — solutions, DPPs, question papers, doubt-solving, lesson plans, parent & WhatsApp messages, content and more.
+**219 free, copy-paste AI prompts** that quietly do a teacher's busywork — solutions, DPPs, question papers, doubt-solving, lesson plans, parent & WhatsApp messages, content and more.
 
 🔗 **Live:** https://yosoyun.github.io/ai-prompt-library-for-teachers/
 
@@ -8,16 +8,11 @@ Works with **ChatGPT, Claude or Gemini** (free versions too). No login, no codin
 
 ## Highlights
 
-- **Beast-level UI** — Aura-style glassmorphism with a light/dark toggle, animated aurora, Fraunces display type.
-- **Multi-layer & never confusing** — Hero → *Start here* (60-second guide + AI-tool picker) → browsable **category shelves** → filters (level, text/image) + search → **prompt detail modal**.
-- **Every prompt is auto-signed** — each one tells the AI to end its answer with the teacher's signature so students and parents can get in touch.
+- **Ivory-editorial design** — warm paper, Fraunces display serif, emerald + sienna, with a one-tap **Ink (dark) mode**.
+- **Multi-layer & never confusing** — Hero → *Start here* (60-second guide + AI-tool picker) → browsable **category shelves** → filters (level, text/image) + search → **prompt-detail modal**.
+- **Every prompt is auto-signed** — each one tells the AI to end its answer with the author's name and a link back to this studio, so students and parents can always find their teacher.
+- **Click-only contact** — email / WhatsApp / Instagram are tappable icons only; no contact details are shown as text anywhere.
 - **Works offline** — all data is embedded in `index.html`.
-
-## Contact / feedback (embedded in every solution)
-
-- 📧 indrajeetsirallen@gmail.com
-- 💬 https://wa.me/918072965053
-- 📸 https://instagram.com/indrajeetsirallen
 
 ## Files
 
@@ -34,8 +29,7 @@ Works with **ChatGPT, Claude or Gemini** (free versions too). No login, no codin
 [Maths Prompt Studio](https://yosoyun.github.io/math-prompt-studio/) ·
 [Ranker Masterbooks](https://yosoyun.github.io/ranker-masterbooks/) ·
 [Andreescu Library](https://yosoyun.github.io/andreescu-library/) ·
-[LIMITS Masterbook](https://limits-masterbook.vercel.app) ·
-[AMC 8 Math App](https://amc8-math-app-two.vercel.app)
+[LIMITS Masterbook](https://limits-masterbook.vercel.app)
 
 ---
 
