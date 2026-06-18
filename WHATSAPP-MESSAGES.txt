@@ -1,50 +1,48 @@
 ============================================================
-  Prompt Studio for Teachers — WhatsApp messages (copy & paste)
+  Prompt Studio — WhatsApp messages (copy & paste)
 ============================================================
 
 
 ----- Invite (English) -----
 
-🎓 *Prompt Studio for Teachers*  —  free AI prompts for teachers
+🎓 *Prompt Studio — for teachers & students*
 
-219 ready-to-use, copy-paste prompts that save hours every day — solutions, DPPs, question papers, doubt-solving, lesson plans, parent & WhatsApp messages and more.
+517+ premium, copy-paste AI prompts for JEE, NEET, Olympiad & school — solutions, mock papers, doubt-solving, study plans, lesson plans and more. Many ask you a few questions first, then give a premium answer. Attach a photo of any question and they solve it.
 
-✅ 100% copy-paste. Works on ChatGPT, Claude or Gemini (free versions too).
-🧩 Open → pick a prompt → fill the [BLANKS] → paste into the AI.
+✅ Works on ChatGPT, Claude or Gemini (free too).
+🧩 Pick Teacher or Student → choose a prompt → fill the [BLANKS] → paste.
 
 👉 https://yosoyun.github.io/ai-prompt-library-for-teachers/
 
-Made for teachers, by Indrajeet Yadav.
+Made for teachers & students, by Indrajeet Yadav.
 
 
 ----- How to use it daily (English) -----
 
-📌 *How to use Prompt Studio for Teachers every day*
+📌 *How to use Prompt Studio every day*
 
-1️⃣ Open the link & bookmark it on your phone.
-2️⃣ Tap *Start here* once to see a 60-second example.
-3️⃣ Pick a category (DPP, Question Paper, Doubt-Solving…) or search.
+1️⃣ Open the link, bookmark it.
+2️⃣ Tap *Teacher* or *Student* mode.
+3️⃣ Pick your track — JEE / NEET / Olympiad / Foundation — and subject.
 4️⃣ Tap *Copy*, paste into ChatGPT / Claude / Gemini.
-5️⃣ Replace the [BRACKETS] — e.g. [TOPIC] → Integration, [GRADE] → Class 12.
-6️⃣ Send. Every answer is signed so students can find you.
+5️⃣ Answer its questions (many ask first), or attach your question's photo.
+6️⃣ Get a premium, exam-accurate answer — signed so you can reach me.
 
 👉 https://yosoyun.github.io/ai-prompt-library-for-teachers/
 
 
 ----- Invite (Hindi) -----
 
-🎓 *Prompt Studio for Teachers* — शिक्षकों के लिए मुफ़्त AI प्रॉम्प्ट
+🎓 *Prompt Studio — शिक्षकों और छात्रों के लिए*
 
-रोज़ घंटों बचाने वाले 219 तैयार प्रॉम्प्ट — हल, DPP, प्रश्न-पत्र, डाउट सॉल्विंग, लेसन प्लान, पैरेंट/WhatsApp मैसेज और भी बहुत कुछ।
+517+ प्रीमियम, कॉपी-पेस्ट AI प्रॉम्प्ट — JEE, NEET, Olympiad और स्कूल के लिए। हल, मॉक पेपर, डाउट सॉल्विंग, स्टडी प्लान और बहुत कुछ। कई प्रॉम्प्ट पहले आपसे सवाल पूछते हैं, फिर प्रीमियम उत्तर देते हैं। सवाल की फोटो लगाओ — हल हो जाएगा।
 
-✅ पूरी तरह कॉपी-पेस्ट। ChatGPT, Claude या Gemini पर चलता है।
-🧩 खोलें → प्रॉम्प्ट चुनें → [BRACKETS] भरें → AI में पेस्ट करें।
-
+✅ ChatGPT, Claude या Gemini पर चलता है।
 👉 https://yosoyun.github.io/ai-prompt-library-for-teachers/
 
-शिक्षकों के लिए — Indrajeet Yadav द्वारा।
+— Indrajeet Yadav
 
 
-The live link is in every message above:
+Live link (in every message):
   https://yosoyun.github.io/ai-prompt-library-for-teachers/
-Contacts are click-only on the site (email / WhatsApp / Instagram) and are never shown as text.
+Contacts are click-only on the site and never shown as text.
