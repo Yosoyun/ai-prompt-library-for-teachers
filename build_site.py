@@ -44,11 +44,13 @@ for i,p in enumerate(raw,1):
       "what_you_get":(p.get("what_you_get") or p.get("use_case") or "").strip(),"level":lv,
       "output_type":"image" if str(p.get("output_type","")).lower()=="image" else "text",
       "interactive":bool(p.get("interactive",False)),"variables":varlist(p.get("variables",[])),
-      "prompt":(p.get("prompt") or "").strip(),"tool":(p.get("tool") or "Any").strip()})
+      "prompt":(p.get("prompt") or "").strip(),"tool":(p.get("tool") or "Any").strip(),
+      "added":p.get("added",""),"popular":bool(p.get("popular")),"sample":(p.get("sample") or "").strip()})
 COUNT=len(prompts)
 
 # light index (no heavy body) + separate bodies map
-INDEX=[{k:p[k] for k in ("id","mode","track","subject","category","title","use_case","what_you_get","level","output_type","interactive","variables")} for p in prompts]
+_IK=("id","mode","track","subject","category","title","use_case","what_you_get","level","output_type","interactive","variables")
+INDEX=[dict({k:p[k] for k in _IK}, added=p.get("added",""), popular=bool(p.get("popular")), sample=p.get("sample","")) for p in prompts]
 BODIES={p["id"]:p["prompt"] for p in prompts}
 
 def esc(s): return html.escape(s or "",quote=True)
@@ -213,6 +215,11 @@ html[data-theme="ink"] .chip[aria-pressed="true"]{color:#15120c}
 .card h3,.card .ct,.var,.tool h4{overflow-wrap:anywhere}
 #shareBtn{cursor:pointer}
 .hint{font-family:var(--f-serif);font-size:13.5px;color:var(--ink-3);margin:2px 0 10px;font-style:italic;line-height:1.45}
+.badge.pop{color:var(--gold);border-color:color-mix(in srgb,var(--gold) 50%,transparent);font-weight:700}
+details.sample{margin:4px 0 14px;border:1px solid var(--line);border-radius:3px;background:var(--paper-2)}
+details.sample summary{cursor:pointer;padding:11px 14px;font-weight:600;font-size:13.5px;color:var(--em);list-style:none}
+details.sample summary::-webkit-details-marker{display:none}
+details.sample pre.full{margin:0 14px 14px;background:var(--paper)}
 .n[id]{font-family:var(--f-mono);font-size:11px;opacity:.7}
 .dot{width:8px;height:8px;border-radius:50%;display:inline-block;vertical-align:middle}.dot.text{background:var(--em)}.dot.image{background:var(--gold)}
 .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(322px,1fr));gap:14px;align-items:start;padding-top:22px}
@@ -354,6 +361,7 @@ You: answer · AI guides you to the answer.</div></div>
     <button class="chip tf" data-type="text" aria-pressed="false" onclick="setType('text',this)"><span class="dot text"></span> Text <span class="n" id="cText"></span></button>
     <button class="chip tf" data-type="image" aria-pressed="false" onclick="setType('image',this)"><span class="dot image"></span> Photo <span class="n" id="cImg"></span></button>
     <button class="chip" id="askChip" aria-pressed="false" onclick="toggleAsk(this)">💬 Asks first <span class="n" id="cAsk"></span></button>
+    <button class="chip" id="popChip" aria-pressed="false" onclick="togglePop(this)">🔥 Popular <span class="n" id="cPop"></span></button>
     <button class="chip" id="favChip" aria-pressed="false" onclick="toggleFav(this)">★ Saved <span class="n" id="cSaved"></span></button>
   </div>
   <div class="frow"><span class="glab" title="Which AI the Open button launches">When I tap Open</span><span id="aiChips" style="display:contents"></span></div>
@@ -400,7 +408,7 @@ const PAGE=48;
 const ls=(k,d)=>{try{return JSON.parse(localStorage.getItem(k))||d}catch(e){return d}};
 const lset=(k,v)=>{try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}};
 let favs=new Set(ls('ps-fav',[]));
-let st={mode:'Teacher',track:'all',sub:'all',cat:'all',type:'all',ask:false,fav:false,q:'',shown:PAGE,ai:(ls('ps-ai','chatgpt'))};
+let st={mode:'Teacher',track:'all',sub:'all',cat:'all',type:'all',ask:false,fav:false,pop:false,q:'',shown:PAGE,ai:(ls('ps-ai','chatgpt'))};
 
 /* lazy bodies */
 let BODIES={},bodiesP=null;
@@ -463,9 +471,11 @@ function buildFacets(){
 function setType(t,el){st.type=t;st.shown=PAGE;document.querySelectorAll('.tf').forEach(x=>x.setAttribute('aria-pressed',x===el));render();}
 function toggleAsk(el){st.ask=!st.ask;st.shown=PAGE;el.setAttribute('aria-pressed',st.ask);render();}
 function toggleFav(el){st.fav=!st.fav;st.shown=PAGE;el.setAttribute('aria-pressed',st.fav);render();}
-window.setType=setType;window.toggleAsk=toggleAsk;window.toggleFav=toggleFav;
-function anyFilter(){return st.track!=='all'||st.sub!=='all'||st.cat!=='all'||st.type!=='all'||st.ask||st.fav||st.q;}
-function clearAll(){st.track='all';st.sub='all';st.cat='all';st.type='all';st.ask=false;st.fav=false;st.q='';st.shown=PAGE;$('#q').value='';
+function togglePop(el){st.pop=!st.pop;st.shown=PAGE;el.setAttribute('aria-pressed',st.pop);render();}
+window.setType=setType;window.toggleAsk=toggleAsk;window.toggleFav=toggleFav;window.togglePop=togglePop;
+function anyFilter(){return st.track!=='all'||st.sub!=='all'||st.cat!=='all'||st.type!=='all'||st.ask||st.fav||st.pop||st.q;}
+function clearAll(){st.track='all';st.sub='all';st.cat='all';st.type='all';st.ask=false;st.fav=false;st.pop=false;st.shown=PAGE;$('#q').value='';
+ var pc=$('#popChip');if(pc)pc.setAttribute('aria-pressed',false);
  document.querySelectorAll('.tf').forEach(x=>x.setAttribute('aria-pressed',x.dataset.type==='all'));$('#askChip').setAttribute('aria-pressed',false);$('#favChip').setAttribute('aria-pressed',false);buildFacets();render();}
 $('#clr').onclick=clearAll;
 
@@ -476,6 +486,7 @@ function match(p){
  if(st.cat!=='all'&&p.category!==st.cat)return false;
  if(st.type!=='all'&&p.output_type!==st.type)return false;
  if(st.ask&&!p.interactive)return false;
+ if(st.pop&&!p.popular)return false;
  if(st.fav&&!favs.has(p.id))return false;
  if(st.q){const h=(p.title+' '+p.category+' '+p.track+' '+p.subject+' '+(p.what_you_get||'')+' '+(p.variables||[]).join(' ')).toLowerCase();return st.q.split(/\s+/).every(w=>h.includes(w));}
  return true;
@@ -492,15 +503,18 @@ function passToggles(p,except){
  if(except!=='type'&&st.type!=='all'&&p.output_type!==st.type)return false;
  if(except!=='ask'&&st.ask&&!p.interactive)return false;
  if(except!=='fav'&&st.fav&&!favs.has(p.id))return false;
+ if(except!=='pop'&&st.pop&&!p.popular)return false;
  return true;
 }
 function refreshToggleCounts(){
  const base=P.filter(baseMatch);
  const nT=base.filter(p=>passToggles(p,'type')&&p.output_type==='text').length, nI=base.filter(p=>passToggles(p,'type')&&p.output_type==='image').length,
-       nA=base.filter(p=>passToggles(p,'ask')&&p.interactive).length, nS=base.filter(p=>passToggles(p,'fav')&&favs.has(p.id)).length;
+       nA=base.filter(p=>passToggles(p,'ask')&&p.interactive).length, nS=base.filter(p=>passToggles(p,'fav')&&favs.has(p.id)).length,
+       nP=base.filter(p=>passToggles(p,'pop')&&p.popular).length;
  const set=(id,n)=>{const e=document.getElementById(id);if(e)e.textContent=n;};
- set('cText',nT);set('cImg',nI);set('cAsk',nA);set('cSaved',nS);
+ set('cText',nT);set('cImg',nI);set('cAsk',nA);set('cSaved',nS);set('cPop',nP);
  const dis=(sel,n,active)=>{const e=document.querySelector(sel);if(e)e.disabled=(n===0&&!active);};
+ dis('#popChip',nP,st.pop);
  dis('.tf[data-type="text"]',nT,st.type==='text');dis('.tf[data-type="image"]',nI,st.type==='image');
  dis('#askChip',nA,st.ask);dis('#favChip',nS,st.fav);
 }
@@ -509,7 +523,7 @@ function cardEl(p,animate){
  const card=document.createElement('article');card.className='card';
  const vars=(p.variables||[]).slice(0,5).map(v=>'<span class="var">'+esc(v)+'</span>').join('');
  const isNew=p.added&&p.added>='2026-06-21';
- const badges=(isNew?'<span class="badge new">NEW</span>':'')+(p.interactive?'<span class="badge ask">💬 asks first</span>':'')+(p.output_type==='image'?'<span class="badge pic">🖼 photo</span>':'');
+ const badges=(p.popular?'<span class="badge pop">🔥 Popular</span>':'')+(isNew?'<span class="badge new">NEW</span>':'')+(p.interactive?'<span class="badge ask">💬 asks first</span>':'')+(p.output_type==='image'?'<span class="badge pic">🖼 photo</span>':'');
  const fav=favs.has(p.id);
  card.innerHTML='<div class="tagrow">'+badges+'<button class="star" aria-label="Save to favourites" aria-pressed="'+fav+'">'+(fav?'★':'☆')+'</button></div>'+
   '<div class="meta"><span class="ct">'+esc(p.subject)+' · '+esc(p.category)+'</span></div>'+
@@ -534,7 +548,7 @@ function render(){
  grid.innerHTML='';
  if(!items.length){
   if(st.fav&&favs.size===0){grid.innerHTML='<div class="empty">No saved prompts yet.<div class="sum">Tap the ☆ on any prompt to keep it here.</div><button class="btn solid" onclick="window.__clear()">Browse all prompts</button></div>';$('#more').innerHTML='';return;}
-  const parts=[st.track!=='all'?st.track:'',st.sub!=='all'?st.sub:'',st.cat!=='all'?st.cat:'',st.type!=='all'?st.type:'',st.ask?'asks-first':'',st.fav?'saved':''].filter(Boolean).join(' · ');
+  const parts=[st.track!=='all'?st.track:'',st.sub!=='all'?st.sub:'',st.cat!=='all'?st.cat:'',st.type!=='all'?st.type:'',st.ask?'asks-first':'',st.pop?'popular':'',st.fav?'saved':''].filter(Boolean).join(' · ');
   const sug=(C.contact?'mailto:'+C.contact.email+'?subject='+encodeURIComponent('Prompt request: '+(st.q||parts||'(idea)')):'#');
   grid.innerHTML='<div class="empty">No prompts match.<div class="sum">'+(parts?'Filters: '+esc(parts):'')+'</div><button class="btn solid" onclick="window.__clear()">Clear all filters</button> <a class="btn line" href="'+sug+'">✦ Suggest this prompt</a></div>';
   $('#more').innerHTML='';return;
@@ -564,6 +578,7 @@ async function openModal(p){
   '<div class="lab">'+esc(p.category)+(lvls?' · best for':'')+'</div>'+(lvls?'<div class="tagrow">'+lvls+'</div>':'')+
   (vars?'<div class="lab">Fill in these blanks</div><p class="hint">Replace each [BRACKET] with your own detail — or delete it and just attach your question.</p><div class="vars">'+vars+'</div>':'')+
   (p.output_type==='image'?'<p class="hint">📎 To attach a photo: in ChatGPT / Claude / Gemini tap the paperclip or + icon, choose your photo, then paste this prompt and send.</p>':'')+
+  (p.sample?'<details class="sample"><summary>👀 See an example answer</summary><pre class="full">'+esc(p.sample)+'</pre></details>':'')+
   '<div class="lab">The prompt</div><pre class="full" id="mfull">Loading…</pre>'+
   '<div class="cbar"><button class="copy" id="mc" style="flex:1">Copy prompt</button><button class="open" id="mo">Open ↗</button></div>';
  modal.classList.add('open');document.body.style.overflow='hidden';

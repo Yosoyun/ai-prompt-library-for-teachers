@@ -7,7 +7,7 @@
 
 🎓 *Prompt Studio — for teachers & students*
 
-517+ premium, copy-paste AI prompts for JEE, NEET, Olympiad & school — solutions, mock papers, doubt-solving, study plans, lesson plans and more. Many ask you a few questions first, then give a premium answer. Attach a photo of any question and they solve it.
+603+ premium, copy-paste AI prompts for JEE, NEET, Olympiad & school — solutions, mock papers, doubt-solving, study plans, lesson plans and more. Many ask you a few questions first, then give a premium answer. Attach a photo of any question and they solve it.
 
 ✅ Works on ChatGPT, Claude or Gemini (free too).
 🧩 Pick Teacher or Student → choose a prompt → fill the [BLANKS] → paste.
@@ -35,7 +35,7 @@ Made for teachers & students, by Indrajeet Yadav.
 
 🎓 *Prompt Studio — शिक्षकों और छात्रों के लिए*
 
-517+ प्रीमियम, कॉपी-पेस्ट AI प्रॉम्प्ट — JEE, NEET, Olympiad और स्कूल के लिए। हल, मॉक पेपर, डाउट सॉल्विंग, स्टडी प्लान और बहुत कुछ। कई प्रॉम्प्ट पहले आपसे सवाल पूछते हैं, फिर प्रीमियम उत्तर देते हैं।
+603+ प्रीमियम, कॉपी-पेस्ट AI प्रॉम्प्ट — JEE, NEET, Olympiad और स्कूल के लिए। हल, मॉक पेपर, डाउट सॉल्विंग, स्टडी प्लान और बहुत कुछ। कई प्रॉम्प्ट पहले आपसे सवाल पूछते हैं, फिर प्रीमियम उत्तर देते हैं।
 
 ✅ ChatGPT, Claude या Gemini पर चलता है।
 👉 https://yosoyun.github.io/ai-prompt-library-for-teachers/
