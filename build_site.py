@@ -204,6 +204,16 @@ html[data-theme="ink"] .seg button[aria-pressed="true"]{color:#15120c}
 html[data-theme="ink"] .chip[aria-pressed="true"]{color:#15120c}
 .chip .n{opacity:.6;margin-left:5px;font-family:var(--f-mono);font-size:11px}
 .openhint{font-family:var(--f-serif);font-size:13px;color:var(--ink-3);margin-top:8px;font-style:italic}
+.filt-toggle{font-family:var(--f-ui);font-weight:600;font-size:13px;padding:8px 13px;border:1px solid var(--line);border-radius:3px;background:var(--paper);color:var(--ink-2);cursor:pointer;display:none}
+.filt-toggle:hover{border-color:var(--em);color:var(--em)}
+.facets{display:block}
+.controls.collapsed .facets{display:none}
+.chip[disabled]{opacity:.34;cursor:not-allowed;pointer-events:none}
+.badge.new{color:#fff;background:var(--sienna);border-color:var(--sienna)}
+.card h3,.card .ct,.var,.tool h4{overflow-wrap:anywhere}
+#shareBtn{cursor:pointer}
+.hint{font-family:var(--f-serif);font-size:13.5px;color:var(--ink-3);margin:2px 0 10px;font-style:italic;line-height:1.45}
+.n[id]{font-family:var(--f-mono);font-size:11px;opacity:.7}
 .dot{width:8px;height:8px;border-radius:50%;display:inline-block;vertical-align:middle}.dot.text{background:var(--em)}.dot.image{background:var(--gold)}
 .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(322px,1fr));gap:14px;align-items:start;padding-top:22px}
 .card{background:var(--paper);border:1px solid var(--line);border-radius:3px;padding:18px;display:flex;flex-direction:column;gap:10px;transition:border-color .16s,transform .16s;content-visibility:auto;contain-intrinsic-size:auto 300px}
@@ -262,11 +272,16 @@ pre.full{white-space:pre-wrap;word-break:break-word;font-family:var(--f-mono);fo
 #toast.show{opacity:1;transform:translateX(-50%) translateY(0)}
 .reveal{opacity:0;transform:translateY(14px);animation:rise .7s cubic-bezier(.2,.7,.2,1) forwards}
 @keyframes rise{to{opacity:1;transform:none}}
-@media(prefers-reduced-motion:reduce){.reveal{animation:none;opacity:1;transform:none}*{scroll-behavior:auto!important}}
+@media(prefers-reduced-motion:reduce){.reveal{animation:none;opacity:1;transform:none}*{scroll-behavior:auto!important;transition-duration:.001ms!important;animation-duration:.001ms!important}.card:hover,.star:hover,.btn:hover{transform:none}}
 @media(max-width:760px){
  header.nav{backdrop-filter:none}.controls{position:static}
- .frow{flex-wrap:nowrap;overflow-x:auto;-webkit-overflow-scrolling:touch;padding-bottom:6px;scrollbar-width:none}
- .frow::-webkit-scrollbar{display:none}.chip,.seg button{flex:0 0 auto}.sheet{padding:20px}
+ .filt-toggle{display:inline-block}
+ .frow{flex-wrap:nowrap;overflow-x:auto;-webkit-overflow-scrolling:touch;padding-bottom:6px;scrollbar-width:none;-webkit-mask-image:linear-gradient(90deg,#000 90%,transparent);mask-image:linear-gradient(90deg,#000 90%,transparent)}
+ .frow::-webkit-scrollbar{display:none}
+ .frow .glab{position:sticky;left:0;background:var(--bg);padding-right:8px;z-index:2}
+ .chip,.seg button{flex:0 0 auto}
+ .chip,.clr,.filt-toggle,.tf,.star{min-height:42px}.star{min-width:42px}
+ .sheet{padding:20px}.sheet .cbar{flex-direction:column}.sheet .cbar .open,.sheet .cbar .copy{width:100%}
 }
 @media(max-width:560px){.grid{grid-template-columns:1fr}.seg button{padding:10px 18px}}
 </style>
@@ -284,7 +299,7 @@ pre.full{white-space:pre-wrap;word-break:break-word;font-family:var(--f-mono);fo
   <div class="sc eye reveal">Free · teachers &amp; students · JEE · NEET · Olympiad · Boards</div>
   <h1 class="title reveal" style="animation-delay:.05s"><span class="big">__COUNT__+</span> premium prompts that<br>think <em>with</em> you, not for you.</h1>
   <p class="lede reveal" style="animation-delay:.12s">Master prompts for every teacher and student. Many <b>ask you a few questions first</b>, then deliver a premium, exam-accurate answer. <b>Attach a photo</b> of any question and they solve it — step by step.</p>
-  <div class="cta reveal" style="animation-delay:.18s"><a class="btn solid" href="#library">Open the library</a><a class="btn line" href="#start">New to AI? Start here →</a></div>
+  <div class="cta reveal" style="animation-delay:.18s"><a class="btn solid" href="#library">Open the library</a><a class="btn line" href="#start">New to AI? Start here →</a><button class="btn line" id="shareBtn">↗ Share with a teacher</button></div>
   <div class="stripe reveal" style="animation-delay:.24s"><span><b>__COUNT__+</b> prompts</span><span><b>2</b> modes</span><span><b>4</b> tracks</span><span><b>Photo</b>-aware</span><span><b>Free</b> forever</span></div>
 </div></section>
 
@@ -310,6 +325,7 @@ pre.full{white-space:pre-wrap;word-break:break-word;font-family:var(--f-mono);fo
 AI: "Before I solve — what's your class &amp; target exam,
 and where exactly are you stuck? (1/4)"
 You: answer · AI guides you to the answer.</div></div>
+      <p class="hint">📎 To solve from a photo: in the AI, tap the <b>paperclip / +</b> icon, choose your question's photo, then paste the prompt and send.</p>
     </div>
   </div>
 </div></section>
@@ -325,21 +341,24 @@ You: answer · AI guides you to the answer.</div></div>
     <div class="search"><label for="q" class="sr">Search prompts</label>
       <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke-width="2" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4-4"/></svg>
       <input id="q" type="search" placeholder="Search prompts — mock test, doubt, study plan, integration, NCERT…" autocomplete="off"/></div>
-    <button class="clr" id="clr">✕ Clear filters</button>
+    <button class="filt-toggle" id="filtToggle" aria-expanded="true">⚙ Filters</button>
     <span class="shown" id="shown" aria-live="polite"></span>
+    <button class="clr" id="clr">✕ Clear</button>
   </div>
+  <div class="facets" id="facets">
   <div class="frow"><span class="glab">Track</span><span id="trackChips" style="display:contents"></span></div>
   <div class="frow"><span class="glab">Subject</span><span id="subChips" style="display:contents"></span></div>
-  <div class="frow"><span class="glab">Type</span><span id="catChips" style="display:contents"></span></div>
-  <div class="frow"><span class="glab">Format</span>
+  <div class="frow"><span class="glab" title="What you want the AI to do">I want</span><span id="catChips" style="display:contents"></span></div>
+  <div class="frow"><span class="glab">Output</span>
     <button class="chip tf" data-type="all" aria-pressed="true" onclick="setType('all',this)">All</button>
-    <button class="chip tf" data-type="text" aria-pressed="false" onclick="setType('text',this)"><span class="dot text"></span> Text</button>
-    <button class="chip tf" data-type="image" aria-pressed="false" onclick="setType('image',this)"><span class="dot image"></span> Photo</button>
-    <button class="chip" id="askChip" aria-pressed="false" onclick="toggleAsk(this)">💬 Asks first</button>
-    <button class="chip" id="favChip" aria-pressed="false" onclick="toggleFav(this)">★ Saved</button>
+    <button class="chip tf" data-type="text" aria-pressed="false" onclick="setType('text',this)"><span class="dot text"></span> Text <span class="n" id="cText"></span></button>
+    <button class="chip tf" data-type="image" aria-pressed="false" onclick="setType('image',this)"><span class="dot image"></span> Photo <span class="n" id="cImg"></span></button>
+    <button class="chip" id="askChip" aria-pressed="false" onclick="toggleAsk(this)">💬 Asks first <span class="n" id="cAsk"></span></button>
+    <button class="chip" id="favChip" aria-pressed="false" onclick="toggleFav(this)">★ Saved <span class="n" id="cSaved"></span></button>
   </div>
-  <div class="frow"><span class="glab">Open in</span><span id="aiChips" style="display:contents"></span></div>
-  <p class="openhint">The <b>Open ↗</b> button copies the prompt and opens your chosen AI — just paste (Ctrl/Cmd+V) if it isn't already filled in.</p>
+  <div class="frow"><span class="glab" title="Which AI the Open button launches">When I tap Open</span><span id="aiChips" style="display:contents"></span></div>
+  </div>
+  <p class="openhint">Tip: anything in <b>[SQUARE BRACKETS]</b> is a blank — fill it in or delete it. <b>Open ↗</b> copies the prompt and opens your AI; just paste (Ctrl/Cmd+V) if it isn't pre-filled.</p>
 </div></div>
 
 <div class="wrap"><div class="grid" id="grid">__STATIC__</div><div class="more" id="more"></div></div>
@@ -402,13 +421,11 @@ function fbcopy(t){const a=document.createElement('textarea');a.value=t;a.style.
 let tT;function toast(m){const t=$('#toast');t.textContent=m;t.classList.add('show');clearTimeout(tT);tT=setTimeout(()=>t.classList.remove('show'),1600);}
 
 const AINAME={chatgpt:'ChatGPT',claude:'Claude',gemini:'Gemini'};
-function buildAI(){const box=$('#aiChips');box.innerHTML='';['chatgpt','claude','gemini'].forEach(a=>{const b=document.createElement('button');b.className='chip';b.setAttribute('aria-pressed',st.ai===a);b.textContent=AINAME[a];b.onclick=()=>{st.ai=a;lset('ps-ai',a);buildAI();};box.appendChild(b);});}
-async function openAI(id){const text=await getBody(id);copyText(text);const ai=st.ai||'chatgpt';const enc=encodeURIComponent(text);let url;
- if(ai==='chatgpt')url=enc.length<5000?'https://chatgpt.com/?q='+enc:'https://chatgpt.com/';
- else if(ai==='claude')url='https://claude.ai/new';
- else url='https://gemini.google.com/app';
- window.open(url,'_blank','noopener');
- toast('Copied — opening '+AINAME[ai]+'. Paste with Ctrl/Cmd+V.');}
+function buildAI(){const box=$('#aiChips');box.innerHTML='';['chatgpt','claude','gemini'].forEach(a=>{const b=document.createElement('button');b.className='chip';b.setAttribute('aria-pressed',st.ai===a);b.textContent=AINAME[a];b.onclick=()=>{st.ai=a;lset('ps-ai',a);buildAI();render();};box.appendChild(b);});}
+const BARE={chatgpt:'https://chatgpt.com/',claude:'https://claude.ai/new',gemini:'https://gemini.google.com/app'};
+function openAI(id){const ai=st.ai||'chatgpt';pushRecent(id);
+ if(BODIES[id]){const text=BODIES[id];copyText(text);const enc=encodeURIComponent(text);const url=(ai==='chatgpt'&&enc.length<5000)?'https://chatgpt.com/?q='+enc:BARE[ai];window.open(url,'_blank','noopener');toast('Copied — opening '+AINAME[ai]+'. Paste with Ctrl/Cmd+V.');}
+ else{window.open(BARE[ai],'_blank','noopener');toast('Opening '+AINAME[ai]+' — copying the prompt, paste it in a moment.');getBody(id).then(b=>{if(b&&b.indexOf('could not load')===-1)copyText(b);});}}
 function pushRecent(id){let r=ls('ps-recent',[]);r=[id].concat(r.filter(x=>x!==id)).slice(0,30);lset('ps-recent',r);}
 
 (function(){const c=C.contact;const links={mail:'mailto:'+c.email+'?subject='+encodeURIComponent('Feedback — '+C.brand),wa:'https://wa.me/'+c.wa_num,ig:'https://instagram.com/'+c.insta};
@@ -463,20 +480,46 @@ function match(p){
  if(st.q){const h=(p.title+' '+p.category+' '+p.track+' '+p.subject+' '+(p.what_you_get||'')+' '+(p.variables||[]).join(' ')).toLowerCase();return st.q.split(/\s+/).every(w=>h.includes(w));}
  return true;
 }
+function baseMatch(p){
+ if(p.mode!==st.mode)return false;
+ if(st.track!=='all'&&p.track!==st.track)return false;
+ if(st.sub!=='all'&&p.subject!==st.sub)return false;
+ if(st.cat!=='all'&&p.category!==st.cat)return false;
+ if(st.q){const h=(p.title+' '+p.category+' '+p.track+' '+p.subject+' '+(p.what_you_get||'')+' '+(p.variables||[]).join(' ')).toLowerCase();return st.q.split(/\s+/).every(w=>h.includes(w));}
+ return true;
+}
+function passToggles(p,except){
+ if(except!=='type'&&st.type!=='all'&&p.output_type!==st.type)return false;
+ if(except!=='ask'&&st.ask&&!p.interactive)return false;
+ if(except!=='fav'&&st.fav&&!favs.has(p.id))return false;
+ return true;
+}
+function refreshToggleCounts(){
+ const base=P.filter(baseMatch);
+ const nT=base.filter(p=>passToggles(p,'type')&&p.output_type==='text').length, nI=base.filter(p=>passToggles(p,'type')&&p.output_type==='image').length,
+       nA=base.filter(p=>passToggles(p,'ask')&&p.interactive).length, nS=base.filter(p=>passToggles(p,'fav')&&favs.has(p.id)).length;
+ const set=(id,n)=>{const e=document.getElementById(id);if(e)e.textContent=n;};
+ set('cText',nT);set('cImg',nI);set('cAsk',nA);set('cSaved',nS);
+ const dis=(sel,n,active)=>{const e=document.querySelector(sel);if(e)e.disabled=(n===0&&!active);};
+ dis('.tf[data-type="text"]',nT,st.type==='text');dis('.tf[data-type="image"]',nI,st.type==='image');
+ dis('#askChip',nA,st.ask);dis('#favChip',nS,st.fav);
+}
 const grid=$('#grid');
 function cardEl(p,animate){
  const card=document.createElement('article');card.className='card';
  const vars=(p.variables||[]).slice(0,5).map(v=>'<span class="var">'+esc(v)+'</span>').join('');
- const badges=(p.interactive?'<span class="badge ask">💬 asks first</span>':'')+(p.output_type==='image'?'<span class="badge pic">🖼 photo</span>':'');
+ const isNew=p.added&&p.added>='2026-06-21';
+ const badges=(isNew?'<span class="badge new">NEW</span>':'')+(p.interactive?'<span class="badge ask">💬 asks first</span>':'')+(p.output_type==='image'?'<span class="badge pic">🖼 photo</span>':'');
  const fav=favs.has(p.id);
  card.innerHTML='<div class="tagrow">'+badges+'<button class="star" aria-label="Save to favourites" aria-pressed="'+fav+'">'+(fav?'★':'☆')+'</button></div>'+
   '<div class="meta"><span class="ct">'+esc(p.subject)+' · '+esc(p.category)+'</span></div>'+
   '<h3>'+esc(p.title)+'</h3>'+(p.what_you_get?'<p class="yg"><b>YOU GET — </b>'+esc(p.what_you_get)+'</p>':'')+
   (vars?'<div class="vars">'+vars+'</div>':'')+
-  '<div class="cbar"><button class="copy">Copy</button><button class="open">Open ↗</button><button class="view">View</button></div>';
+  '<div class="cbar"><button class="copy" title="Copy the prompt text">Copy</button><button class="open" title="Copy &amp; open '+AINAME[st.ai||'chatgpt']+'">Open ↗</button><button class="view" title="Read the full prompt first">Preview</button></div>';
  const cp=card.querySelector('.copy');
- cp.onclick=async()=>{const b=await getBody(p.id);copyText(b);pushRecent(p.id);cp.classList.add('done');cp.textContent='✓ Copied!';toast('Prompt copied — paste it into your AI');setTimeout(()=>{cp.classList.remove('done');cp.textContent='Copy';},1600);};
- card.querySelector('.open').onclick=()=>{pushRecent(p.id);openAI(p.id);};
+ cp.onclick=()=>{const done=()=>{cp.classList.add('done');cp.textContent='✓ Copied!';pushRecent(p.id);toast('Prompt copied — paste it into your AI');setTimeout(()=>{cp.classList.remove('done');cp.textContent='Copy';},1600);};
+  if(BODIES[p.id]){copyText(BODIES[p.id]);done();}else{cp.textContent='Copying…';getBody(p.id).then(b=>{if(b&&b.indexOf('could not load')===-1){copyText(b);done();}else{cp.textContent='Copy';toast('Could not load the prompt — please refresh.');}});}};
+ card.querySelector('.open').onclick=()=>openAI(p.id);
  card.querySelector('.view').onclick=()=>openModal(p);
  const star=card.querySelector('.star');
  star.onclick=()=>{if(favs.has(p.id)){favs.delete(p.id);}else{favs.add(p.id);}lset('ps-fav',[...favs]);const on=favs.has(p.id);star.setAttribute('aria-pressed',on);star.textContent=on?'★':'☆';if(st.fav)render();};
@@ -485,12 +528,15 @@ function cardEl(p,animate){
 }
 function render(){
  const items=P.filter(match);
+ refreshToggleCounts();
  $('#clr').classList.toggle('show',anyFilter());
  $('#shown').textContent=Math.min(st.shown,items.length)+' / '+items.length+' shown';
  grid.innerHTML='';
  if(!items.length){
+  if(st.fav&&favs.size===0){grid.innerHTML='<div class="empty">No saved prompts yet.<div class="sum">Tap the ☆ on any prompt to keep it here.</div><button class="btn solid" onclick="window.__clear()">Browse all prompts</button></div>';$('#more').innerHTML='';return;}
   const parts=[st.track!=='all'?st.track:'',st.sub!=='all'?st.sub:'',st.cat!=='all'?st.cat:'',st.type!=='all'?st.type:'',st.ask?'asks-first':'',st.fav?'saved':''].filter(Boolean).join(' · ');
-  grid.innerHTML='<div class="empty">No prompts match.<div class="sum">'+(parts?'Filters: '+esc(parts):'')+'</div><button class="btn solid" onclick="window.__clear()">Clear all filters</button></div>';
+  const sug=(C.contact?'mailto:'+C.contact.email+'?subject='+encodeURIComponent('Prompt request: '+(st.q||parts||'(idea)')):'#');
+  grid.innerHTML='<div class="empty">No prompts match.<div class="sum">'+(parts?'Filters: '+esc(parts):'')+'</div><button class="btn solid" onclick="window.__clear()">Clear all filters</button> <a class="btn line" href="'+sug+'">✦ Suggest this prompt</a></div>';
   $('#more').innerHTML='';return;
  }
  const fr=document.createDocumentFragment();
@@ -516,9 +562,10 @@ async function openModal(p){
   '<div class="tagrow" style="margin:6px 0">'+badges+'</div>'+
   '<h3 id="sheetTitle">'+esc(p.title)+'</h3>'+(p.what_you_get?'<p class="yg">'+esc(p.what_you_get)+'</p>':'')+
   '<div class="lab">'+esc(p.category)+(lvls?' · best for':'')+'</div>'+(lvls?'<div class="tagrow">'+lvls+'</div>':'')+
-  (vars?'<div class="lab">Fill in these</div><div class="vars">'+vars+'</div>':'')+
+  (vars?'<div class="lab">Fill in these blanks</div><p class="hint">Replace each [BRACKET] with your own detail — or delete it and just attach your question.</p><div class="vars">'+vars+'</div>':'')+
+  (p.output_type==='image'?'<p class="hint">📎 To attach a photo: in ChatGPT / Claude / Gemini tap the paperclip or + icon, choose your photo, then paste this prompt and send.</p>':'')+
   '<div class="lab">The prompt</div><pre class="full" id="mfull">Loading…</pre>'+
-  '<div class="cbar"><button class="copy" id="mc" style="flex:1">Copy prompt</button><button class="open" id="mo">Open ↗ in '+AINAME[st.ai||'chatgpt']+'</button></div>';
+  '<div class="cbar"><button class="copy" id="mc" style="flex:1">Copy prompt</button><button class="open" id="mo">Open ↗</button></div>';
  modal.classList.add('open');document.body.style.overflow='hidden';
  if(!(history.state&&history.state.modal))history.pushState({modal:p.id},'','#p/'+p.id);
  const body=await getBody(p.id);const full=$('#mfull');if(full)full.textContent=body;
@@ -539,7 +586,14 @@ document.addEventListener('keydown',e=>{
 
 let qt;$('#q').addEventListener('input',e=>{clearTimeout(qt);qt=setTimeout(()=>{st.q=e.target.value.trim().toLowerCase();st.shown=PAGE;render();},120);});
 /* deep-link to a prompt via #p/ID */
-(function(){const m=location.hash.match(/^#p\/(.+)$/);if(m){const p=P.find(x=>x.id===m[1]);if(p)setTimeout(()=>openModal(p),300);}})();
+(function(){const m=location.hash.match(/^#p\/(.+)$/);if(m){const p=P.find(x=>x.id===m[1]);if(p){setTimeout(()=>openModal(p),300);}else{setTimeout(()=>{toast('That prompt link is no longer available.');try{history.replaceState(null,'',location.pathname);}catch(e){}},400);}}})();
+/* Filters collapse toggle (collapsed by default on phones) */
+(function(){const ctrl=document.querySelector('.controls'),ft=$('#filtToggle');if(!ft)return;
+ ft.onclick=()=>{const c=ctrl.classList.toggle('collapsed');ft.setAttribute('aria-expanded',String(!c));};
+ if(window.matchMedia&&window.matchMedia('(max-width:760px)').matches){ctrl.classList.add('collapsed');ft.setAttribute('aria-expanded','false');}})();
+/* Share */
+(function(){const b=$('#shareBtn');if(!b)return;b.onclick=async()=>{const data={title:C.brand,text:C.count+'+ free AI prompts for teachers & students — JEE, NEET, Olympiad & Boards.',url:C.site};
+ if(navigator.share){try{await navigator.share(data);}catch(e){}}else{copyText(C.site);toast('Link copied — paste it into WhatsApp 💚');}};})();
 buildMode();buildFacets();buildAI();render();
 })();}
 </script>
