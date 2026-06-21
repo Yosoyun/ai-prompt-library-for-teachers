@@ -1,5 +1,5 @@
 ============================================================
-  Prompt Studio — WhatsApp messages (copy & paste)
+  Prompt Studio — WhatsApp messages
 ============================================================
 
 
@@ -24,9 +24,9 @@ Made for teachers & students, by Indrajeet Yadav.
 1️⃣ Open the link, bookmark it.
 2️⃣ Tap *Teacher* or *Student* mode.
 3️⃣ Pick your track — JEE / NEET / Olympiad / Foundation — and subject.
-4️⃣ Tap *Copy*, paste into ChatGPT / Claude / Gemini.
+4️⃣ Tap *Copy* or *Open ↗*, paste into ChatGPT / Claude / Gemini.
 5️⃣ Answer its questions (many ask first), or attach your question's photo.
-6️⃣ Get a premium, exam-accurate answer — signed so you can reach me.
+6️⃣ Get a premium, exam-accurate answer.
 
 👉 https://yosoyun.github.io/ai-prompt-library-for-teachers/
 
@@ -35,7 +35,7 @@ Made for teachers & students, by Indrajeet Yadav.
 
 🎓 *Prompt Studio — शिक्षकों और छात्रों के लिए*
 
-517+ प्रीमियम, कॉपी-पेस्ट AI प्रॉम्प्ट — JEE, NEET, Olympiad और स्कूल के लिए। हल, मॉक पेपर, डाउट सॉल्विंग, स्टडी प्लान और बहुत कुछ। कई प्रॉम्प्ट पहले आपसे सवाल पूछते हैं, फिर प्रीमियम उत्तर देते हैं। सवाल की फोटो लगाओ — हल हो जाएगा।
+517+ प्रीमियम, कॉपी-पेस्ट AI प्रॉम्प्ट — JEE, NEET, Olympiad और स्कूल के लिए। हल, मॉक पेपर, डाउट सॉल्विंग, स्टडी प्लान और बहुत कुछ। कई प्रॉम्प्ट पहले आपसे सवाल पूछते हैं, फिर प्रीमियम उत्तर देते हैं।
 
 ✅ ChatGPT, Claude या Gemini पर चलता है।
 👉 https://yosoyun.github.io/ai-prompt-library-for-teachers/
@@ -43,6 +43,4 @@ Made for teachers & students, by Indrajeet Yadav.
 — Indrajeet Yadav
 
 
-Live link (in every message):
-  https://yosoyun.github.io/ai-prompt-library-for-teachers/
-Contacts are click-only on the site and never shown as text.
+Live: https://yosoyun.github.io/ai-prompt-library-for-teachers/
