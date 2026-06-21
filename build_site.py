@@ -339,7 +339,7 @@ You: answer · AI guides you to the answer.</div></div>
 </div></section>
 
 <section id="library"><div class="wrap">
-  <div class="shead"><div class="sc k">The Library</div><h2>__COUNT__+ premium prompts</h2>
+  <div class="shead"><div class="sc k" data-i18n="lib.k">The Library</div><h2 data-i18n="lib.h2">__COUNT__+ premium prompts</h2>
     <p>Switch modes, choose a track &amp; subject, or search. Look for the <span style="color:var(--blue);font-weight:600">asks first</span> and <span style="color:var(--gold);font-weight:600">photo</span> badges, and ★ your favourites.</p></div>
   <div class="modebar"><div class="seg" id="modeSeg" role="group" aria-label="Mode"></div></div>
 </div></section>
@@ -365,7 +365,7 @@ You: answer · AI guides you to the answer.</div></div>
     <button class="chip" id="popChip" aria-pressed="false" onclick="togglePop(this)">🔥 Popular <span class="n" id="cPop"></span></button>
     <button class="chip" id="favChip" aria-pressed="false" onclick="toggleFav(this)">★ Saved <span class="n" id="cSaved"></span></button>
   </div>
-  <div class="frow"><span class="glab" title="Which AI the Open button launches">When I tap Open</span><span id="aiChips" style="display:contents"></span></div>
+  <div class="frow"><span class="glab" title="Which AI the Open button launches" data-i18n="f.open">When I tap Open</span><span id="aiChips" style="display:contents"></span></div>
   </div>
   <p class="openhint">Tip: anything in <b>[SQUARE BRACKETS]</b> is a blank — fill it in or delete it. <b>Open ↗</b> copies the prompt and opens your AI; just paste (Ctrl/Cmd+V) if it isn't pre-filled.</p>
 </div></div>
@@ -380,7 +380,7 @@ You: answer · AI guides you to the answer.</div></div>
 <section id="contact"><div class="wrap">
   <div class="contact">
     <div class="sc k" style="color:var(--sienna);margin-bottom:12px">Stay in touch</div>
-    <h2>Feedback, problems or appreciation?</h2>
+    <h2 data-i18n="contact.h2">Feedback, problems or appreciation?</h2>
     <p>I'd love to hear how this helps — and what to add next. Tap to reach me.</p>
     <div class="icons" id="icons"></div>
     <div><a class="fbk" id="fbk"></a></div>
@@ -434,7 +434,8 @@ const I18N_HI={
  'stat.prompts':'प्रॉम्प्ट','stat.modes':'मोड','stat.tracks':'ट्रैक','stat.photo':' — फोटो सक्षम','stat.free':'हमेशा',
  'start.k':'यहाँ से शुरू करें · 60 सेकंड','start.h2':'दो मोड। अपना चुनें।',
  'start.sub':'👩‍🏫 <b>शिक्षक</b> — हल, मॉक पेपर, लेसन, डाउट-क्लिनिक। 🎓 <b>छात्र</b> — ट्यूटर, फोटो डाउट-सॉल्विंग, तैयारी प्लान।',
- 'f.track':'ट्रैक','f.subject':'विषय','f.iwant':'मुझे चाहिए','f.output':'आउटपुट'
+ 'f.track':'ट्रैक','f.subject':'विषय','f.iwant':'मुझे चाहिए','f.output':'आउटपुट','f.open':'Open दबाने पर',
+ 'lib.k':'लाइब्रेरी','lib.h2':C.count+'+ प्रीमियम प्रॉम्प्ट','contact.h2':'फीडबैक, समस्या या सराहना?'
 };
 const i18nEN={};
 function applyLang(l){document.documentElement.lang=(l==='hi'?'hi':'en');

@@ -2977,7 +2977,7 @@ You get: An error-pattern diagnosis (concept vs silly vs time) + a targeted, dat
 ROLE: You are a performance-analytics mentor for JEE Chemistry who reads a student's wrong answers like a detective — finding the repeating root causes hiding behind scattered mistakes.
 CONTEXT: I want to analyse a Chemistry test I've taken ([TEST_TYPE]) and turn my mistakes into a fix plan, not just a list of corrections.
 
-WORKING FROM A PHOTO: If I attach photos/screenshots of the question paper, my answers, or the OMR/answer key, FIRST transcribe them exactly — the question, my marked answer, the correct answer, and time spent if available. Reproduce formulae/structures faithfully in LaTeX/skeletal form. If anything is unreadable, list under 'NEEDS CONFIRMATION' and ask. If no photo, I'll paste: (paste your question here, or attach it as a photo) (ideally: Q topic, my answer, correct answer, why I think I missed it).
+WORKING FROM A PHOTO: If I attach photos/screenshots of the question paper, my answers, or the on-screen answer palette (computer-based test)/answer key, FIRST transcribe them exactly — the question, my marked answer, the correct answer, and time spent if available. Reproduce formulae/structures faithfully in LaTeX/skeletal form. If anything is unreadable, list under 'NEEDS CONFIRMATION' and ask. If no photo, I'll paste: (paste your question here, or attach it as a photo) (ideally: Q topic, my answer, correct answer, why I think I missed it).
 
 FIRST, ASK ME — one at a time, waiting:
 1) For each wrong question, do you have your reason ('didn't know' / 'silly slip' / 'ran out of time' / 'misread')? If not, I'll infer it from the working.
@@ -3070,7 +3070,7 @@ METHOD — build the strategy:
 2) Recommend attempt ORDER: usually Inorganic first (fast, recall-based, marks in the bank) → your strong chapters → Physical numericals → hard Organic/multi-concept last. Adapt to MY strengths.
 3) Set a TIME BUDGET: seconds/marks per question type, a hard 'move-on' cap, and a rule for flagging-and-returning.
 4) SKIP RULES: define the exact triggers to abandon a question (e.g. 'no entry point in 45s', 'two attempts disagree', 'calculation ballooning').
-5) Two-pass plan: Pass 1 = certain + fast; Pass 2 = flagged/risky with EV check; final 2 minutes = OMR/answer review, no new attempts.
+5) Two-pass plan: Pass 1 = certain + fast; Pass 2 = flagged/risky with EV check; final 2 minutes = on-screen answer palette (computer-based test)/answer review, no new attempts.
 6) A pre-exam 60-second reset routine for nerves.
 
 OUTPUT FORMAT: My profile recap → EV/attempt-threshold rule (with the actual numbers) → Attempt-order map → Time-budget table → Skip-rule checklist → Two-pass timeline → Nerve-reset routine.
@@ -3554,10 +3554,12 @@ Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
 
-### JEE Chemistry Exam-Day SOP: Score-First Order & OMR Nerves
+### JEE Chemistry Exam-Day SOP: Score-First Order & Nerves
 You get: A Phy/Inorg/Org attempt-order map + onscreen marking SOP + recall-block reset
 
 ```
+TITLE: JEE Chemistry Exam-Day SOP: Score-First Order & Palette Nerves
+
 ROLE
 You are an experienced JEE Chemistry mentor who specialises in *exam-hall execution* across the three sub-subjects — Physical, Inorganic and Organic. You understand how their question profiles differ: Inorganic and many Physical items are fast recall/short-calculation 'bankers', while Organic mechanism and multi-step reasoning can quietly eat time. Your specialism today is the operating procedure — the order a student attacks Chemistry, how they handle the onscreen question palette and Mark-for-Review, the negative-marking math, and how they recover when a name reaction or a periodic-trend fact just won't surface. You are NOT a topic tutor or solver today.
 
@@ -3993,7 +3995,7 @@ ROLE: You are a JEE performance analyst — part data scientist, part top-ranker
 
 CONTEXT: I'll give you a completed Maths test/mock (my answers + the key, or my scored sheet). Find my "error DNA" and fix it before [EXAM_DATE].
 
-WORKING FROM A PHOTO: If I attach images of my OMR/answer sheet or solutions, FIRST transcribe each question's: my answer, correct answer, my working (if shown) in LaTeX, and time spent if available. Flag anything unreadable.
+WORKING FROM A PHOTO: If I attach images of my on-screen answer palette (computer-based test)/answer sheet or solutions, FIRST transcribe each question's: my answer, correct answer, my working (if shown) in LaTeX, and time spent if available. Flag anything unreadable.
 
 FIRST, ASK ME — one at a time:
 1. What's the test (Main/Advanced/topic test), total marks, and my score?
@@ -5031,7 +5033,7 @@ ROLE — You are a JEE performance analyst who treats every mock like a crime sc
 
 CONTEXT — Here is my completed Physics mock/test with my answers (and ideally the correct ones and per-question time): (paste your question here, or attach it as a photo). Timing notes: [TIME_DATA].
 
-WORKING FROM A PHOTO — If I attach the paper/OMR/screenshot, transcribe it into a clean table: Q# | topic | my answer | correct answer | right/wrong | time spent (if given). Render any equations in LaTeX. Then analyse.
+WORKING FROM A PHOTO — If I attach the paper/on-screen answer palette (computer-based test)/screenshot, transcribe it into a clean table: Q# | topic | my answer | correct answer | right/wrong | time spent (if given). Render any equations in LaTeX. Then analyse.
 
 METHOD / DO THIS —
 1. Classify EVERY wrong answer into one root cause: Conceptual gap · Procedural/algebra/sign · Careless (misread, unit, transcription) · Time-pressure rush · Wrong question selection (attempted a trap, skipped an easy one).
@@ -5107,7 +5109,7 @@ METHOD / DO THIS —
 2. Set explicit time caps per pass and a hard 'move on' rule (e.g., 90 sec without traction → flag & leave).
 3. Give a negative-marking decision rule: when an educated guess is +EV (e.g., can eliminate ≥2 options) vs when to leave it blank, tuned to the exam's marking.
 4. Tailor to my data: if I over-attempt, tighten skip rules; if I under-attempt, push a more aggressive guess threshold.
-5. Add a pre-start ritual (read marking, breathe), a mid-section checkpoint (time vs questions), and a last-5-minutes routine (OMR/marking review, no new hard Q).
+5. Add a pre-start ritual (read marking, breathe), a mid-section checkpoint (time vs questions), and a last-5-minutes routine (on-screen answer palette (computer-based test)/marking review, no new hard Q).
 6. Build in misread-prevention (underline 'NOT/incorrect/except', units asked).
 
 OUTPUT FORMAT — 🎯 My profile (restated) · 🧭 3-pass plan with time caps · ⏱️ Per-section clock checkpoints · 🎲 Negative-marking decision rule · 🚫 Skip rules · 🧘 Pre/mid/end rituals · 📌 Misread safeguards.
@@ -5621,10 +5623,12 @@ Questions, feedback or appreciation are always welcome.
 ━━━━━━━━━━━━━━━━
 ```
 
-### JEE Physics Exam-Day SOP: Attempt Order, OMR & Nerves
+### JEE Physics Exam-Day SOP: Attempt Order & Nerves
 You get: A timed Physics attempt-sweep plan + onscreen review/marking SOP + 90-sec panic reset
 
 ```
+TITLE: JEE Physics Exam-Day SOP: Attempt Order, Question Palette & Nerves
+
 ROLE
 You are a seasoned JEE Physics coach who has walked hundreds of aspirants through computer-based-test exam halls. Your specialism is the *meta-skill* of the paper: the order in which a student sweeps the Physics section, how they manage the onscreen question palette and Mark-for-Review flags, how they budget seconds across single-correct, numerical (integer) and (in Advanced) multiple-correct items, and how they keep their hands and breathing steady when a mechanics problem refuses to crack. You are NOT a solver and NOT a syllabus tutor today — you design the *operating procedure* for the three hours.
 
@@ -8867,7 +8871,7 @@ WORKING FROM A PHOTO
 If I attach a photo: TRANSCRIBE each question faithfully — all given data with units, any described figure, and all four options. If a figure or value is unreadable, mark it [UNCLEAR] and solve symbolically/with the most likely value, flagging it. Show the transcription, then solve. Here is the paper: [ATTACH PHOTO OR PASTE QUESTIONS].
 
 DO THIS
-1. Confirm paper identity and the marking scheme you assume (NEET typically +4/-1 style, but say 'verify the latest official notification' since patterns/marking can change).
+1. Confirm paper identity and the marking scheme you assume; do not assume a specific marking scheme; tell the student to verify the latest official notification, since patterns/marking can change.
 2. Solve EVERY question in order, optimised for NEET speed: state chapter + the one formula/principle, plug in, get the answer with units, mark the option. Keep it tight — no over-derivation on direct questions.
 3. For each question, name the single classic trap (unit conversion, factor of 2, vector vs scalar, graph misread, special-case value) that catches students.
 4. Flag any question that is calculation-heavy for NEET, has a disputed answer, or feels out-of-pattern; say so plainly.
@@ -11464,7 +11468,7 @@ ROLE
 You are my Mathematical-Olympiad crash-revision strategist — a mentor who knows olympiad performance in the final days is NOT about cramming new theorems but about sharpening PROBLEM-SOLVING REFLEXES, technique recall, and exam-stamina for long proof-based papers. You think in the four classical domains (Algebra, Combinatorics, Number Theory, Geometry) and in tools/motifs, not chapters. You restore my "solver's instinct" and pacing for a multi-hour proof exam.
 
 CONTEXT
-I am revising for a maths olympiad (e.g. pre-RMO/RMO/INMO-style or equivalent — I'll confirm the exact one; treat any rule/format claim as "verify the latest official notification"). Olympiad papers reward (a) recognising which TECHNIQUE a problem invites (induction, pigeonhole, invariants, extremal principle, generating functions, modular arithmetic, inequalities like AM-GM/Cauchy, projective/trig/coordinate geometry attacks), (b) writing rigorous, well-structured PROOFS, and (c) managing time across few high-weight problems without sinking all of it into one. Crash-revision = technique drilling + past-paper proof-writing + a personal "motif bank," not learning brand-new areas.
+I am revising for a maths olympiad (e.g. IOQM/RMO/INMO-style (formerly pre-RMO) or equivalent — I'll confirm the exact one; treat any rule/format claim as "verify the latest official notification"). Olympiad papers reward (a) recognising which TECHNIQUE a problem invites (induction, pigeonhole, invariants, extremal principle, generating functions, modular arithmetic, inequalities like AM-GM/Cauchy, projective/trig/coordinate geometry attacks), (b) writing rigorous, well-structured PROOFS, and (c) managing time across few high-weight problems without sinking all of it into one. Crash-revision = technique drilling + past-paper proof-writing + a personal "motif bank," not learning brand-new areas.
 
 FIRST, ASK ME 3–5 CLARIFYING QUESTIONS — ONE AT A TIME. Wait for each:
 1. How many days until the olympiad and how many focused hours per day?
@@ -16581,7 +16585,7 @@ You get: Ranked chapter roadmap with rationale, prerequisite chains, and a weekl
 ```
 ROLE: You are a senior JEE Physics mentor who has built result-oriented teaching sequences for Main and Advanced batches. You think in terms of concept dependency chains (kinematics before dynamics, work-energy before SHM, electrostatics before current/capacitance, ray optics before wave optics), recurring problem archetypes, and the reality that Physics rewards depth over coverage. You design study orders that maximise marks-per-study-hour without breaking conceptual prerequisites.
 
-CONTEXT: A teacher wants to sequence the JEE Physics syllabus so the highest-return chapters are taught and revised FIRST, while respecting that some chapters are foundational for others. This is NOT a doubt-solver or a single-chapter lesson plan — it is a whole-subject prioritisation and ordering engine. Mechanics and Electrodynamics are traditionally heavy, high-yield blocks; Modern Physics and a few short chapters (Units & Measurement, Errors, Semiconductors, Communication where applicable) are high-return-per-hour because they are scoring and compact. Treat all such weight claims as directional, not as fixed percentages.
+CONTEXT: A teacher wants to sequence the JEE Physics syllabus so the highest-return chapters are taught and revised FIRST, while respecting that some chapters are foundational for others. This is NOT a doubt-solver or a single-chapter lesson plan — it is a whole-subject prioritisation and ordering engine. Mechanics and Electrodynamics are traditionally heavy, high-yield blocks; Modern Physics and any short, compact chapters that are present in the current notification (for example Units & Measurement and Errors) are high-return-per-hour because they are scoring and compact (verify the latest official notification for which short chapters are in the current syllabus). Treat all such weight claims as directional, not as fixed percentages.
 
 FIRST, ASK ME 3-5 CLARIFYING QUESTIONS, ONE AT A TIME (wait for my answer before the next): 
 1) Is this for JEE Main only, or Main + Advanced? [EXAM_TARGET]
@@ -17316,7 +17320,7 @@ Questions, feedback or appreciation are always welcome.
 You get: Single-correct + assertion-reason DPP, answer key, and a high-yield revision note
 
 ```
-ROLE: You are a senior NEET Biology faculty member who knows that Biology is the highest-weight section and that NEET tests NCERT-line precision: exact terms, correct sequences, exceptions, and 'all of the following EXCEPT' phrasing. You design single-correct and assertion-reason DPPs that build factual accuracy without drifting beyond standard NCERT-level content.
+ROLE: You are a senior NEET Biology faculty member who knows that Biology is broadly the highest-mark section (verify against the latest official NTA/NEET notification) and that NEET tests NCERT-line precision: exact terms, correct sequences, exceptions, and 'all of the following EXCEPT' phrasing. You design single-correct and assertion-reason DPPs that build factual accuracy without drifting beyond standard NCERT-level content.
 
 CONTEXT: I will paste ONE solved concept or statement. Don't re-teach it. Produce a print-ready NEET-style Biology DPP on the same concept that drills precision and discrimination between close options.
 
@@ -21777,7 +21781,7 @@ Questions, feedback or appreciation are always welcome.
 You get: Graded olympiad set with hints ladder, full proofs, and a technique-transfer note
 
 ```
-ROLE: You are an Olympiad Maths trainer who has coached students through the Indian pipeline (IOQM/Pre-RMO → RMO → INMO) and is comfortable across algebra, combinatorics, number theory, and geometry. You think in TECHNIQUES (invariants, extremal principle, pigeonhole, generating identities, telescoping, induction, modular arguments) and you build problem sets that drill one technique toward rigorous proof, not just an answer.
+ROLE: You are an Olympiad Maths trainer who has coached students through the Indian pipeline (IOQM, formerly Pre-RMO → RMO → INMO) and is comfortable across algebra, combinatorics, number theory, and geometry. You think in TECHNIQUES (invariants, extremal principle, pigeonhole, generating identities, telescoping, induction, modular arguments) and you build problem sets that drill one technique toward rigorous proof, not just an answer.
 
 CONTEXT: I will paste ONE solved olympiad problem with its solution. Do not re-solve it. Produce a print-ready graded problem set that trains the SAME core technique, with a hints ladder and full proofs.
 
@@ -21785,12 +21789,12 @@ My inputs:
 - Solved problem + solution: [PASTE THE SOLVED OLYMPIAD PROBLEM + SOLUTION]
 - Area: [AREA: Algebra / Combinatorics / Number Theory / Geometry]
 - Number of problems: [NUMBER OF PROBLEMS]
-- Stage: [STAGE: Pre-RMO/IOQM, RMO, or INMO]
+- Stage: [STAGE: IOQM (formerly Pre-RMO), RMO, or INMO] (verify the current stage names/structure against the latest official MTA/HBCSE notification)
 
 DO THIS:
 1. Name the core TECHNIQUE the solved problem uses (be precise: 'pigeonhole on residues mod n', not just 'pigeonhole'). State why it's the crux. Confirm before generating.
 2. Build a graded set: 1-2 entry problems where the technique applies almost directly, 2-3 mid problems where it must be set up (choose the right invariant/quantity), 1-2 challenge problems where the technique combines with a second idea. Calibrate the floor and ceiling to the requested STAGE (IOQM-style short-answer vs RMO/INMO full-proof).
-3. For IOQM/Pre-RMO stage, allow integer/short-answer phrasing; for RMO/INMO, phrase as 'Prove that...' / 'Determine all...' expecting full justification.
+3. For IOQM (formerly Pre-RMO) stage, allow integer/short-answer phrasing; for RMO/INMO, phrase as 'Prove that...' / 'Determine all...' expecting full justification.
 4. Provide a HINTS LADDER for each problem: Hint 1 (nudge), Hint 2 (the key idea), Hint 3 (near-solution) — so I can release hints progressively in class.
 5. Write COMPLETE, RIGOROUS proofs for every problem (not sketches): state claims, justify each step, handle edge cases, and end with a clear conclusion. Flag where a step is the 'crux move'.
 6. Keep statements self-contained and unambiguous; define all notation; ensure any 'determine all' problem's answer set is actually complete.
