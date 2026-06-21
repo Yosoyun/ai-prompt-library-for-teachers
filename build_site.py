@@ -298,21 +298,22 @@ pre.full{white-space:pre-wrap;word-break:break-word;font-family:var(--f-mono);fo
 <a id="top"></a>
 <header class="nav"><div class="wrap row">
   <a class="brand" href="#top"><span class="seal" aria-hidden="true">P</span>__BRAND__</a>
-  <nav aria-label="Primary"><a href="#start">Start here</a><a href="#library">Library</a><a href="#tools">Tools</a><a href="#contact">Contact</a></nav>
+  <nav aria-label="Primary"><a href="#start" data-i18n="nav.start">Start here</a><a href="#library" data-i18n="nav.lib">Library</a><a href="#tools" data-i18n="nav.tools">Tools</a><a href="#contact" data-i18n="nav.contact">Contact</a></nav>
+  <button class="tg" id="lang" aria-label="Switch language English / Hindi" title="English / हिन्दी" style="font-family:var(--f-ui);font-weight:700;font-size:13px">हिं</button>
   <button class="tg" id="theme" aria-label="Toggle day or ink mode" title="Day / Ink"></button>
 </div></header>
 
 <section class="hero"><div class="wrap">
-  <div class="sc eye reveal">Free · teachers &amp; students · JEE · NEET · Olympiad · Boards</div>
-  <h1 class="title reveal" style="animation-delay:.05s"><span class="big">__COUNT__+</span> premium prompts that<br>think <em>with</em> you, not for you.</h1>
-  <p class="lede reveal" style="animation-delay:.12s">Master prompts for every teacher and student. Many <b>ask you a few questions first</b>, then deliver a premium, exam-accurate answer. <b>Attach a photo</b> of any question and they solve it — step by step.</p>
-  <div class="cta reveal" style="animation-delay:.18s"><a class="btn solid" href="#library">Open the library</a><a class="btn line" href="#start">New to AI? Start here →</a><button class="btn line" id="shareBtn">↗ Share with a teacher</button></div>
-  <div class="stripe reveal" style="animation-delay:.24s"><span><b>__COUNT__+</b> prompts</span><span><b>2</b> modes</span><span><b>4</b> tracks</span><span><b>Photo</b>-aware</span><span><b>Free</b> forever</span></div>
+  <div class="sc eye reveal" data-i18n="hero.eye">Free · teachers &amp; students · JEE · NEET · Olympiad · Boards</div>
+  <h1 class="title reveal" style="animation-delay:.05s" data-i18n="hero.h1"><span class="big">__COUNT__+</span> premium prompts that<br>think <em>with</em> you, not for you.</h1>
+  <p class="lede reveal" style="animation-delay:.12s" data-i18n="hero.lede">Master prompts for every teacher and student. Many <b>ask you a few questions first</b>, then deliver a premium, exam-accurate answer. <b>Attach a photo</b> of any question and they solve it — step by step.</p>
+  <div class="cta reveal" style="animation-delay:.18s"><a class="btn solid" href="#library" data-i18n="hero.cta1">Open the library</a><a class="btn line" href="#start" data-i18n="hero.cta2">New to AI? Start here →</a><button class="btn line" id="shareBtn" data-i18n="hero.share">↗ Share with a teacher</button></div>
+  <div class="stripe reveal" style="animation-delay:.24s"><span><b>__COUNT__+</b> <span data-i18n="stat.prompts">prompts</span></span><span><b>2</b> <span data-i18n="stat.modes">modes</span></span><span><b>4</b> <span data-i18n="stat.tracks">tracks</span></span><span><b>Photo</b><span data-i18n="stat.photo">-aware</span></span><span><b>Free</b> <span data-i18n="stat.free">forever</span></span></div>
 </div></section>
 
 <section id="start"><div class="wrap">
-  <div class="shead"><div class="sc k">Start here · 60 seconds</div><h2>Two modes. Pick yours.</h2>
-    <p>👩‍🏫 <b>Teacher</b> — solutions, mock papers, lessons, doubt-clinics. 🎓 <b>Student</b> — a tutor, photo doubt-solving, prep plans.</p></div>
+  <div class="shead"><div class="sc k" data-i18n="start.k">Start here · 60 seconds</div><h2 data-i18n="start.h2">Two modes. Pick yours.</h2>
+    <p data-i18n="start.sub">👩‍🏫 <b>Teacher</b> — solutions, mock papers, lessons, doubt-clinics. 🎓 <b>Student</b> — a tutor, photo doubt-solving, prep plans.</p></div>
   <div class="start">
     <div><h3>Four small steps.</h3>
       <ol class="steps">
@@ -353,10 +354,10 @@ You: answer · AI guides you to the answer.</div></div>
     <button class="clr" id="clr">✕ Clear</button>
   </div>
   <div class="facets" id="facets">
-  <div class="frow"><span class="glab">Track</span><span id="trackChips" style="display:contents"></span></div>
-  <div class="frow"><span class="glab">Subject</span><span id="subChips" style="display:contents"></span></div>
-  <div class="frow"><span class="glab" title="What you want the AI to do">I want</span><span id="catChips" style="display:contents"></span></div>
-  <div class="frow"><span class="glab">Output</span>
+  <div class="frow"><span class="glab" data-i18n="f.track">Track</span><span id="trackChips" style="display:contents"></span></div>
+  <div class="frow"><span class="glab" data-i18n="f.subject">Subject</span><span id="subChips" style="display:contents"></span></div>
+  <div class="frow"><span class="glab" title="What you want the AI to do" data-i18n="f.iwant">I want</span><span id="catChips" style="display:contents"></span></div>
+  <div class="frow"><span class="glab" data-i18n="f.output">Output</span>
     <button class="chip tf" data-type="all" aria-pressed="true" onclick="setType('all',this)">All</button>
     <button class="chip tf" data-type="text" aria-pressed="false" onclick="setType('text',this)"><span class="dot text"></span> Text <span class="n" id="cText"></span></button>
     <button class="chip tf" data-type="image" aria-pressed="false" onclick="setType('image',this)"><span class="dot image"></span> Photo <span class="n" id="cImg"></span></button>
@@ -423,6 +424,24 @@ const tb=$('#theme');
 function applyTheme(t){document.documentElement.dataset.theme=t;tb.innerHTML=t==='day'?MOON:SUN;try{localStorage.setItem('ps-theme',t)}catch(e){}}
 applyTheme((()=>{try{const v=localStorage.getItem('ps-theme');return (v==='day'||v==='ink')?v:'day'}catch(e){return 'day'}})());
 tb.onclick=()=>applyTheme(document.documentElement.dataset.theme==='day'?'ink':'day');
+/* language (Hindi UI for the chrome) */
+const I18N_HI={
+ 'nav.start':'शुरू करें','nav.lib':'लाइब्रेरी','nav.tools':'टूल्स','nav.contact':'संपर्क',
+ 'hero.eye':'मुफ़्त · शिक्षक और छात्र · JEE · NEET · ओलंपियाड · बोर्ड्स',
+ 'hero.h1':'<span class="big">'+C.count+'+</span> प्रीमियम प्रॉम्प्ट जो<br>आपके <em>साथ</em> सोचते हैं, आपके बदले नहीं।',
+ 'hero.lede':'हर शिक्षक और छात्र के लिए मास्टर प्रॉम्प्ट। कई पहले <b>आपसे कुछ सवाल पूछते हैं</b>, फिर परीक्षा-सटीक, प्रीमियम उत्तर देते हैं। किसी भी सवाल की <b>फोटो लगाइए</b> — वे कदम-दर-कदम हल कर देते हैं।',
+ 'hero.cta1':'लाइब्रेरी खोलें','hero.cta2':'AI में नए हैं? यहाँ से शुरू करें →','hero.share':'↗ किसी शिक्षक के साथ शेयर करें',
+ 'stat.prompts':'प्रॉम्प्ट','stat.modes':'मोड','stat.tracks':'ट्रैक','stat.photo':' — फोटो सक्षम','stat.free':'हमेशा',
+ 'start.k':'यहाँ से शुरू करें · 60 सेकंड','start.h2':'दो मोड। अपना चुनें।',
+ 'start.sub':'👩‍🏫 <b>शिक्षक</b> — हल, मॉक पेपर, लेसन, डाउट-क्लिनिक। 🎓 <b>छात्र</b> — ट्यूटर, फोटो डाउट-सॉल्विंग, तैयारी प्लान।',
+ 'f.track':'ट्रैक','f.subject':'विषय','f.iwant':'मुझे चाहिए','f.output':'आउटपुट'
+};
+const i18nEN={};
+function applyLang(l){document.documentElement.lang=(l==='hi'?'hi':'en');
+ document.querySelectorAll('[data-i18n]').forEach(el=>{const k=el.getAttribute('data-i18n');if(!(k in i18nEN))i18nEN[k]=el.innerHTML;el.innerHTML=(l==='hi'&&I18N_HI[k])?I18N_HI[k]:i18nEN[k];});
+ const lb=document.getElementById('lang');if(lb)lb.textContent=(l==='hi'?'EN':'हिं');try{localStorage.setItem('ps-lang',l)}catch(e){}}
+(function(){const lb=document.getElementById('lang');if(lb)lb.onclick=()=>applyLang(document.documentElement.lang==='hi'?'en':'hi');
+ applyLang((()=>{try{return localStorage.getItem('ps-lang')==='hi'?'hi':'en'}catch(e){return 'en'}})());})();
 
 function copyText(t){if(navigator.clipboard&&window.isSecureContext){return navigator.clipboard.writeText(t).catch(()=>fbcopy(t));}return Promise.resolve(fbcopy(t));}
 function fbcopy(t){const a=document.createElement('textarea');a.value=t;a.style.position='fixed';a.style.top='-9999px';document.body.appendChild(a);a.focus();a.select();try{document.execCommand('copy')}catch(e){}document.body.removeChild(a);}
