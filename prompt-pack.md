@@ -1,6 +1,6 @@
 # Prompt Studio
 
-_603+ premium AI prompts for teachers & students — curated by Indrajeet Yadav. Built 2026-06-21._
+_603+ premium AI prompts for teachers & students — curated by Indrajeet Yadav. Built 2026-07-11._
 
 
 ## Student · Foundation · English & General  (18)

@@ -214,6 +214,34 @@ html[data-theme="ink"] .chip[aria-pressed="true"]{color:#15120c}
 .badge.new{color:#fff;background:var(--sienna);border-color:var(--sienna)}
 .card h3,.card .ct,.var,.tool h4{overflow-wrap:anywhere}
 #shareBtn{cursor:pointer}
+/* quick-start tiles */
+.quick{padding:34px 0 6px}
+.quick h2{font-family:var(--f-disp);font-weight:500;font-size:clamp(24px,4vw,36px);letter-spacing:-.7px;margin-bottom:4px}
+.quick .sub{font-family:var(--f-serif);color:var(--ink-2);font-size:17px;margin-bottom:20px}
+.qgroup-lbl{font-size:12px;letter-spacing:1.6px;text-transform:uppercase;color:var(--sienna);font-weight:700;margin:14px 0 10px}
+.tiles{display:grid;grid-template-columns:repeat(auto-fill,minmax(232px,1fr));gap:12px}
+.tile{display:flex;gap:13px;align-items:center;text-align:left;background:var(--paper);border:1px solid var(--line);border-radius:13px;padding:15px 16px;cursor:pointer;transition:.16s;font-family:var(--f-ui);color:var(--ink)}
+.tile:hover{border-color:var(--em);transform:translateY(-2px);background:var(--paper-2)}
+.tile .em{font-size:25px;flex:none;line-height:1}
+.tile>span:last-child{display:flex;flex-direction:column;gap:1px}
+.tile .tt{display:block;font-weight:700;font-size:15px;line-height:1.25}
+.tile .td{display:block;font-size:12.5px;color:var(--ink-3)}
+/* how-it-works visual */
+.how{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;margin:6px 0 4px}
+.how .st{background:var(--paper);border:1px solid var(--line);border-radius:13px;padding:18px 18px 20px;position:relative;overflow:hidden}
+.how .n{width:26px;height:26px;border-radius:50%;background:var(--grad,var(--em));color:#f7f1e6;font-weight:800;font-size:13px;display:grid;place-items:center;margin-bottom:11px}
+html[data-theme="ink"] .how .n{color:#15120c}
+.how .st h4{font-family:var(--f-ui);font-weight:700;font-size:15px;margin-bottom:4px}
+.how .st p{font-family:var(--f-serif);font-size:13.5px;color:var(--ink-2);line-height:1.45}
+.how .demo{margin-top:12px;border-top:1px dashed var(--line);padding-top:12px;font-family:var(--f-mono);font-size:12px;color:var(--ink-2);min-height:60px}
+.bub{background:var(--paper-2);border:1px solid var(--line);border-radius:9px;padding:8px 10px;margin:5px 0;line-height:1.45}
+.bub.ai{border-color:color-mix(in srgb,var(--em) 30%,transparent)}
+.dots span{display:inline-block;width:6px;height:6px;margin:0 1px;border-radius:50%;background:var(--em);opacity:.35;animation:blink 1.2s infinite}
+.dots span:nth-child(2){animation-delay:.2s}.dots span:nth-child(3){animation-delay:.4s}
+@keyframes blink{0%,60%,100%{opacity:.3}30%{opacity:1}}
+.typing{border-right:2px solid var(--em);white-space:nowrap;overflow:hidden;display:inline-block;vertical-align:bottom;animation:type 2.2s steps(38) 1 both}
+@keyframes type{from{width:0}to{width:100%}}
+@media(max-width:640px){.how{grid-template-columns:1fr}}
 .hint{font-family:var(--f-serif);font-size:13.5px;color:var(--ink-3);margin:2px 0 10px;font-style:italic;line-height:1.45}
 .badge.pop{color:var(--gold);border-color:color-mix(in srgb,var(--gold) 50%,transparent);font-weight:700}
 details.sample{margin:4px 0 14px;border:1px solid var(--line);border-radius:3px;background:var(--paper-2)}
@@ -298,7 +326,7 @@ pre.full{white-space:pre-wrap;word-break:break-word;font-family:var(--f-mono);fo
 <a id="top"></a>
 <header class="nav"><div class="wrap row">
   <a class="brand" href="#top"><span class="seal" aria-hidden="true">P</span>__BRAND__</a>
-  <nav aria-label="Primary"><a href="#start" data-i18n="nav.start">Start here</a><a href="#library" data-i18n="nav.lib">Library</a><a href="#tools" data-i18n="nav.tools">Tools</a><a href="#contact" data-i18n="nav.contact">Contact</a></nav>
+  <nav aria-label="Primary"><a href="#quick" data-i18n="nav.start">Start here</a><a href="#library" data-i18n="nav.lib">Library</a><a href="#tools" data-i18n="nav.tools">Tools</a><a href="#contact" data-i18n="nav.contact">Contact</a></nav>
   <button class="tg" id="lang" aria-label="Switch language English / Hindi" title="English / हिन्दी" style="font-family:var(--f-ui);font-weight:700;font-size:13px">हिं</button>
   <button class="tg" id="theme" aria-label="Toggle day or ink mode" title="Day / Ink"></button>
 </div></header>
@@ -307,8 +335,35 @@ pre.full{white-space:pre-wrap;word-break:break-word;font-family:var(--f-mono);fo
   <div class="sc eye reveal" data-i18n="hero.eye">Free · teachers &amp; students · JEE · NEET · Olympiad · Boards</div>
   <h1 class="title reveal" style="animation-delay:.05s" data-i18n="hero.h1"><span class="big">__COUNT__+</span> premium prompts that<br>think <em>with</em> you, not for you.</h1>
   <p class="lede reveal" style="animation-delay:.12s" data-i18n="hero.lede">Master prompts for every teacher and student. Many <b>ask you a few questions first</b>, then deliver a premium, exam-accurate answer. <b>Attach a photo</b> of any question and they solve it — step by step.</p>
-  <div class="cta reveal" style="animation-delay:.18s"><a class="btn solid" href="#library" data-i18n="hero.cta1">Open the library</a><a class="btn line" href="#start" data-i18n="hero.cta2">New to AI? Start here →</a><button class="btn line" id="shareBtn" data-i18n="hero.share">↗ Share with a teacher</button></div>
+  <div class="cta reveal" style="animation-delay:.18s"><a class="btn solid" href="#library" data-i18n="hero.cta1">Open the library</a><a class="btn line" href="#quick" data-i18n="hero.cta2">New to AI? Start here →</a><button class="btn line" id="shareBtn" data-i18n="hero.share">↗ Share with a teacher</button></div>
   <div class="stripe reveal" style="animation-delay:.24s"><span><b>__COUNT__+</b> <span data-i18n="stat.prompts">prompts</span></span><span><b>2</b> <span data-i18n="stat.modes">modes</span></span><span><b>4</b> <span data-i18n="stat.tracks">tracks</span></span><span><b>Photo</b><span data-i18n="stat.photo">-aware</span></span><span><b>Free</b> <span data-i18n="stat.free">forever</span></span></div>
+</div></section>
+
+<section class="quick" id="quick"><div class="wrap">
+  <div class="sc k" style="color:var(--sienna);margin-bottom:10px" data-i18n="q.k">How it works · 20 seconds</div>
+  <h2 data-i18n="q.h1">It's just copy → paste. That's it.</h2>
+  <p class="sub" data-i18n="q.sub">No tech skills. Pick a ready-made instruction, paste it into a free AI, and get a classroom-ready answer.</p>
+  <div class="how">
+    <div class="st"><div class="n">1</div><h4 data-i18n="q.s1t">Tap a task below</h4><p data-i18n="q.s1p">Pick what you need. We open the right prompt and copy it for you.</p></div>
+    <div class="st"><div class="n">2</div><h4 data-i18n="q.s2t">Paste into a free AI</h4><p data-i18n="q.s2p">Open ChatGPT, Claude or Gemini, paste (Ctrl/Cmd+V), press Enter. To solve a question, attach its photo first (📎).</p></div>
+    <div class="st"><div class="n">3</div><h4 data-i18n="q.s3t">Get your answer</h4><p data-i18n="q.s3p">Some prompts ask you a question or two first, then hand you a premium result.</p>
+      <div class="demo" id="demo"></div></div>
+  </div>
+  <div class="qgroup-lbl" data-i18n="q.gt">👩‍🏫 For teachers — tap one</div>
+  <div class="tiles">
+    <button class="tile" onclick="quickStart('Teacher','Worked Solutions')"><span class="em">✍️</span><span><span class="tt" data-i18n="q.t1">Solve a question</span><span class="td" data-i18n="q.t1d">step-by-step, many methods</span></span></button>
+    <button class="tile" onclick="quickStart('Teacher','Question Papers & Mocks')"><span class="em">📄</span><span><span class="tt" data-i18n="q.t2">Make a question paper</span><span class="td" data-i18n="q.t2d">exam-pattern mock + key</span></span></button>
+    <button class="tile" onclick="quickStart('Teacher','Practice & DPPs')"><span class="em">📝</span><span><span class="tt" data-i18n="q.t3">Make today's homework</span><span class="td" data-i18n="q.t3d">a graded DPP in seconds</span></span></button>
+    <button class="tile" onclick="quickStart('Teacher','Concept Tutor')"><span class="em">📖</span><span><span class="tt" data-i18n="q.t4">Explain a topic for class</span><span class="td" data-i18n="q.t4d">clear, board-ready</span></span></button>
+    <button class="tile" onclick="quickStart('Teacher','Mentoring & Comms')"><span class="em">💬</span><span><span class="tt" data-i18n="q.t5">Message parents</span><span class="td" data-i18n="q.t5d">a clean WhatsApp update</span></span></button>
+  </div>
+  <div class="qgroup-lbl" data-i18n="q.gs">🎓 For students — tap one</div>
+  <div class="tiles">
+    <button class="tile" onclick="quickStart('Student','Doubt Solver')"><span class="em">📷</span><span><span class="tt" data-i18n="q.t6">Solve my doubt from a photo</span><span class="td" data-i18n="q.t6d">snap it, get the steps</span></span></button>
+    <button class="tile" onclick="quickStart('Student','Concept Tutor')"><span class="em">🧑‍🏫</span><span><span class="tt" data-i18n="q.t7">Get a tutor for a topic</span><span class="td" data-i18n="q.t7d">it teaches, not just tells</span></span></button>
+    <button class="tile" onclick="quickStart('Student','Mock Tests')"><span class="em">🎯</span><span><span class="tt" data-i18n="q.t8">Take a mock test</span><span class="td" data-i18n="q.t8d">real pattern + auto-check</span></span></button>
+    <button class="tile" onclick="quickStart('Student','Study Plan')"><span class="em">🗓️</span><span><span class="tt" data-i18n="q.t9">Make my study plan</span><span class="td" data-i18n="q.t9d">to your exam date</span></span></button>
+  </div>
 </div></section>
 
 <section id="start"><div class="wrap">
@@ -435,7 +490,18 @@ const I18N_HI={
  'start.k':'यहाँ से शुरू करें · 60 सेकंड','start.h2':'दो मोड। अपना चुनें।',
  'start.sub':'👩‍🏫 <b>शिक्षक</b> — हल, मॉक पेपर, लेसन, डाउट-क्लिनिक। 🎓 <b>छात्र</b> — ट्यूटर, फोटो डाउट-सॉल्विंग, तैयारी प्लान।',
  'f.track':'ट्रैक','f.subject':'विषय','f.iwant':'मुझे चाहिए','f.output':'आउटपुट','f.open':'Open दबाने पर',
- 'lib.k':'लाइब्रेरी','lib.h2':C.count+'+ प्रीमियम प्रॉम्प्ट','contact.h2':'फीडबैक, समस्या या सराहना?'
+ 'lib.k':'लाइब्रेरी','lib.h2':C.count+'+ प्रीमियम प्रॉम्प्ट','contact.h2':'फीडबैक, समस्या या सराहना?',
+ 'q.k':'यह कैसे काम करता है · 20 सेकंड','q.h1':'बस कॉपी → पेस्ट। इतना ही।',
+ 'q.sub':'कोई तकनीकी ज्ञान नहीं चाहिए। एक तैयार निर्देश चुनिए, किसी मुफ़्त AI में पेस्ट कीजिए, और क्लास-रेडी उत्तर पाइए।',
+ 'q.s1t':'नीचे एक काम चुनिए','q.s1p':'जो चाहिए वो चुनिए — हम सही प्रॉम्प्ट खोलकर कॉपी कर देते हैं।',
+ 'q.s2t':'मुफ़्त AI में पेस्ट कीजिए','q.s2p':'ChatGPT, Claude या Gemini खोलिए, पेस्ट (Ctrl/Cmd+V) कीजिए, Enter दबाइए। सवाल के लिए पहले उसकी फोटो लगाइए (📎)।',
+ 'q.s3t':'अपना उत्तर पाइए','q.s3p':'कुछ प्रॉम्प्ट पहले एक-दो सवाल पूछते हैं, फिर प्रीमियम उत्तर देते हैं।',
+ 'q.gt':'👩‍🏫 शिक्षकों के लिए — एक चुनिए','q.gs':'🎓 छात्रों के लिए — एक चुनिए',
+ 'q.t1':'सवाल हल करें','q.t1d':'कदम-दर-कदम, कई तरीके','q.t2':'प्रश्न-पत्र बनाएँ','q.t2d':'परीक्षा-पैटर्न मॉक + उत्तर-कुंजी',
+ 'q.t3':'आज का होमवर्क बनाएँ','q.t3d':'सेकंडों में ग्रेडेड DPP','q.t4':'क्लास के लिए टॉपिक समझाएँ','q.t4d':'स्पष्ट, बोर्ड-रेडी',
+ 'q.t5':'पैरेंट्स को मैसेज करें','q.t5d':'साफ़ WhatsApp अपडेट','q.t6':'फोटो से मेरा डाउट हल करें','q.t6d':'फोटो लगाइए, हल पाइए',
+ 'q.t7':'टॉपिक के लिए ट्यूटर','q.t7d':'सिखाता है, सिर्फ़ बताता नहीं','q.t8':'मॉक टेस्ट दें','q.t8d':'असली पैटर्न + ऑटो-चेक',
+ 'q.t9':'अपना स्टडी प्लान बनाएँ','q.t9d':'अपनी परीक्षा तिथि तक'
 };
 const i18nEN={};
 function applyLang(l){document.documentElement.lang=(l==='hi'?'hi':'en');
@@ -629,6 +695,31 @@ let qt;$('#q').addEventListener('input',e=>{clearTimeout(qt);qt=setTimeout(()=>{
 /* Share */
 (function(){const b=$('#shareBtn');if(!b)return;b.onclick=async()=>{const data={title:C.brand,text:C.count+'+ free AI prompts for teachers & students — JEE, NEET, Olympiad & Boards.',url:C.site};
  if(navigator.share){try{await navigator.share(data);}catch(e){}}else{copyText(C.site);toast('Link copied — paste it into WhatsApp 💚');}};})();
+/* quick-start tiles: one tap -> filter + scroll to results */
+function quickStart(mode,cat){
+ st.mode=mode;st.track='all';st.sub='all';st.cat=cat;st.type='all';st.ask=false;st.fav=false;st.pop=false;st.q='';st.shown=PAGE;
+ var q=$('#q');if(q)q.value='';
+ buildMode();buildFacets();render();
+ var el=document.querySelector('.controls')||document.getElementById('library');if(el)el.scrollIntoView({behavior:'smooth',block:'start'});
+ toast('Showing '+cat+' for '+mode.toLowerCase()+'s — tap Copy or Open on any card');
+}
+window.quickStart=quickStart;
+/* looping how-it-works demo (respects reduced motion, only when visible) */
+(function(){const d=document.getElementById('demo');if(!d)return;
+ const steps=['<div class="bub">You: *pasted the prompt*</div>',
+  '<div class="bub ai">AI: First — your class &amp; exam? 📚</div>',
+  '<div class="bub">You: Class 12 · JEE</div>',
+  '<div class="bub ai"><span class="dots"><span></span><span></span><span></span></span> thinking…</div>',
+  '<div class="bub ai">✓ Your 3-method solution, ready to use</div>'];
+ const full=steps.join('');
+ if(window.matchMedia&&window.matchMedia('(prefers-reduced-motion: reduce)').matches){d.innerHTML=full;return;}
+ let shown=0,timer=null;
+ function tick(){if(shown>=steps.length)shown=0;d.innerHTML=steps.slice(0,shown+1).join('');shown++;}
+ function start(){if(timer)return;tick();timer=setInterval(tick,1700);}
+ function stop(){clearInterval(timer);timer=null;}
+ tick();
+ if('IntersectionObserver' in window){new IntersectionObserver(es=>{es.forEach(e=>e.isIntersecting?start():stop());},{threshold:.2}).observe(d);}else{start();}
+})();
 buildMode();buildFacets();buildAI();render();
 })();}
 </script>
